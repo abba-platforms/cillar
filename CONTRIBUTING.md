@@ -1,7 +1,17 @@
-Thank you for your interest in contributing to the CillarCoin project.
+# Contributing to CillarCoin
 
-This repository is maintained by Abba Platforms Inc.
+Thank you for your interest in contributing to **CillarCoin** — a programmable ERC-20 utility token powering smart mobility payments on the AfrailX and ArailX transit networks through the Abba App ecosystem.
 
-Please open an issue or pull request with any suggestions, fixes, or improvements.
+We welcome community feedback, bug reports, feature suggestions, and pull requests to improve this open infrastructure.
 
-All contributions are welcome and subject to review.
+---
+
+## 📌 How to Contribute
+
+### 1. Fork the Repository
+Click the **Fork** button at the top right of this repo to create your own copy.
+
+### 2. Clone Your Fork
+```bash
+git clone https://github.com/your-username/cillar.git
+cd cillar
