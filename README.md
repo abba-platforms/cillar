@@ -19,7 +19,7 @@ These smart mobility systems—AfrailX in Africa and ArailX in the U.S.—repres
 
 ## 📄 Whitepaper
 
-For full technical and economic details about CillarCoin, please refer to the [WHITEPAPER.md](./WHITEPAPER.md).
+For full technical and economic details about CillarCoin, please refer to the [WHITEPAPER.md](docs/WHITEPAPER.md).
 
 The whitepaper explains the purpose, utility, architecture, smart contract logic, deployment roadmap, and how CillarCoin integrates with AfrailX™, ArailX™, and the Abba App ecosystem.
 
