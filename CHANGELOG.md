@@ -1,10 +1,51 @@
 # Changelog
 
-All notable changes to this project are documented in this file.
+All notable changes to this project are documented in this file. This project adheres to [Keep a Changelog](https://keepachangelog.com/) and Semantic Versioning.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+----------
 
-## [1.0.6] – 2025-06-28
+## [1.0.6] – 2025‑06‑28
+
 ### Changed
-- Minor wording updates to README for improved clarity and presentation.
+
+-   Minor language clarification in `README.md` to improve clarity.
+
+## [1.0.5] – 2025‑06‑28
+
+### Added
+
+-   Uploaded CillarCoin token images under the `branding/` folder.
+-   Added Node.js publishing support for GitHub Packages.
+
+## [1.0.4] – 2025‑06‑28
+
+### Added
+
+-   Added `CODE_OF_CONDUCT.md` to root directory.
+-   Added `SECURITY.md` to root directory.
+-   Added `CONTRIBUTING.md` to root directory.
+
+## [1.0.3] – 2025‑06‑28
+
+### Added
+
+-   Uploaded official `WHITEPAPER.md` to `docs/` folder.
+-   Linked whitepaper from `README.md`.
+
+## [1.0.2] – 2025‑06‑28
+
+### Added
+
+-   Uploaded full project structure including smart contracts, ABIs, utils, and docs.
+
+## [1.0.1] – 2025‑06‑27
+
+### Added
+
+-   Initialized GitHub repository with basic project structure.
+
+## [1.0.0] – 2025‑06‑27
+
+### Initial Release
+
+-   Published CillarCoin project with README and license.
