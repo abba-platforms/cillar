@@ -1,4 +1,4 @@
-# Welcome to CillarCoin Documentation
+# Welcome to CillarCoin Documentation on Github
 
 **CillarCoin ($CILLAR)** is a secure, smart utility token built for fare payments and transit rewards across **AfrailX** and **ArailX**, two advanced urban transportation systems designed for global deployment. Seamlessly integrated into the **Abba App**, CillarCoin supports programmable logic for rewards, refunds, regional pricing, and subscription access.
 
@@ -10,12 +10,17 @@
 - 🌍 Supports localized fares & global expansion  
 - 🔐 Built on BNB Smart Chain and Web3 standards  
 
-## 📚 Project Resources
+### 📚 Explore the Docs
 
-- [Whitepaper](WHITEPAPER.md)  
-- [System Architecture](ARCHITECTURE.md)  
-- [Smart Contracts](../contracts)  
-- [API & Integration Tools](../utils)  
+- [Whitepaper](./WHITEPAPER.md)
+- [System Architecture](./ARCHITECTURE.md)
+- [Governance](./GOVERNANCE.md)
+- [Changelog](./CHANGELOG.md)
+
+<!-- Coming Soon:
+- [Smart Contract](./contracts/CillarCoin.sol)
+- [API and Integration Tools](./docs/api.md)
+-->
 
 ## 🧠 About
 
