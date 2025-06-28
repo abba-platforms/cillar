@@ -14,8 +14,8 @@
 
 - [Whitepaper](./WHITEPAPER.md)
 - [System Architecture](./ARCHITECTURE.md)
-- [Governance](./GOVERNANCE.md)
-- [Changelog](./CHANGELOG.md)
+- [Governance](./../GOVERNANCE.md)
+- [Changelog](./../CHANGELOG.md)
 
 <!-- Coming Soon:
 - [Smart Contract](./contracts/CillarCoin.sol)
