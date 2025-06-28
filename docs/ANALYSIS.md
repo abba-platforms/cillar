@@ -9,9 +9,9 @@
 
 ## 🌐 Overview
 
-CillarCoin ($CILLAR) is a programmable digital utility token developed by **Abba Platforms Inc.** to power secure, real-time fare payments across smart mobility platforms — **AfrailX** (Africa and the Middle East) and **ArailX** (U.S. and beyond) — through its flagship app, **Abba App**.
+CillarCoin ($CILLAR) is a programmable digital utility token developed by **Abba Platforms Inc.** to power secure, real-time fare payments across smart mobility platforms — **AfrailX** (Africa) and **ArailX** (U.S.) — through its flagship app, **Abba App**.
 
-CillarCoin is **not a speculative cryptocurrency** but a **purpose-built digital fare medium**, offering transparent, fair, and accessible transit solutions in urban mobility ecosystems.
+CillarCoin is **not specifically a speculative cryptocurrency** but a **purpose-built digital fare medium**, offering transparent, fair, and accessible transit solutions in urban mobility ecosystems.
 
 ## 🧠 Strategic Value
 
@@ -27,9 +27,9 @@ CillarCoin is **not a speculative cryptocurrency** but a **purpose-built digital
 -   **Vesting Contract**: Locks unminted supply in a smart contract for gradual release.
 -   **Gas Optimization**: Final contracts are reviewed for efficient gas usage.
 
-## 🧩 Ecosystem Fit
+## 🧹 Ecosystem Fit
 
-CillarCoin is a core piece of the Abba digital ecosystem:
+CillarCoin is a core piece of the Abba Platforms Inc. digital ecosystem:
 
 -   **$AFRX**: Equity token for investors (Reg D + Reg S compliant).
 -   **$CILLAR**: Utility token for real-time ride payments, only functional inside Abba App.
@@ -53,6 +53,7 @@ CillarCoin is a core piece of the Abba digital ecosystem:
 -   **Rewards**: Users receive CILLAR rewards every 20 rides (or per threshold)
 -   **Refunds**: Instant refund logic if ride is canceled within a window
 -   **Loyalty Utility**: Future access to exclusive deals or transit discounts
+-   **Upside Potential**: While not designed for speculation, early adopters acquiring $CILLAR at lower prices could benefit from increasing adoption and utility demand within the growing AfrailX and ArailX networks.
 
 ## 🔄 Regional Fare Logic
 
