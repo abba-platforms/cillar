@@ -1,19 +1,19 @@
 # CillarCoin (CILLAR)
 
-**CillarCoin** is a programmable ERC-20 utility token developed by **Abba Platforms Inc.** to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems through the **Abba App**. It enables secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem.
+**CillarCoin** is a programmable ERC-20 utility token developed by **Abba Platforms Inc.** to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems through the **Abba App**. It is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem.
 
 ---
 
 ## 🚇 Purpose
-CillarCoin is used to:
+CillarCoin is designed to:
 - Pay for transit rides via Abba App on AfrailX and ArailX smart mobility systems
 - Earn ride rewards and loyalty bonuses
-- Enable regional and senior fare discounts
+- Enable regional, children and senior fare discounts
 - Track ride-based CO₂ emissions savings
 - Allow refundable transactions within defined windows
 - Support KYC-based user eligibility
 
-These smart mobility systems—AfrailX in Africa and ArailX in the U.S.—represent the future of clean, efficient, and scalable urban transit. CillarCoin enables seamless payments across these networks through a unified token ecosystem.
+These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX in the U.S. and beyond—represent the future of clean, efficient, and scalable urban transit. CillarCoin enables seamless payments across these networks through a unified token ecosystem.
 
 ---
 
@@ -35,6 +35,7 @@ For full technical and economic details about CillarCoin, please refer to the [W
 The whitepaper explains the purpose, utility, architecture, smart contract logic, deployment roadmap, and how CillarCoin integrates with AfrailX™, ArailX™, and the Abba App ecosystem.
 
 ---
+
 ## 🔗 Ecosystem Integration
 
 | Component            | Role                                                      |
@@ -112,32 +113,25 @@ Copyright (c) 2025 Abba Platforms Inc.
 Created and developed by Simon Kapenda  
 Maintained by Abba Platforms Inc.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the “Software”), to deal
-in the Software without restriction, including without limitation the rights  
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
-copies of the Software, and to permit persons to whom the Software is  
-furnished to do so, subject to the following conditions:
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell  
+copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in  
-all copies or substantial portions of the Software.
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
-THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR  
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,  
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE  
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER  
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING  
-FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS  
-IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
 ---
 
 ## 🌐 Links
 
-- Official Website: [https://cillar.io](https://cillar.io)  
+### Official Websites:
+- Cillar: [https://cillar.io](https://cillar.io)
+- AFRX: [https://afrx.io](https://afrx.io)
 - Abba App: [https://abbapp.com](https://abbapp.com)  
 - AfrailX: [https://afrailx.com](https://afrailx.com)
+- ArailX: [https://arailx.com](https://arailx.com)
+- Afrail Inc: [https://afrail.xyz](https://afrail.xyz)
 
 ---
 
