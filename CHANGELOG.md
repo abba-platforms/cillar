@@ -6,6 +6,15 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
+## [1.0.3] – 2025-06-29
+
+### Added
+
+-   `ANALYSIS.md` document covering technical insights, benefits to holders, and project positioning.
+-   Reference to `ANALYSIS.md` added to `README.md`.
+
+----------
+
 ## [1.0.2] – 2025-06-28
 
 ### Added
