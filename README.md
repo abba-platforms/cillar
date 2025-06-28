@@ -36,6 +36,14 @@ The whitepaper explains the purpose, utility, architecture, smart contract logic
 
 ---
 
+## 📄 Analysis
+
+For a deep technical and ecosystem evaluation of CillarCoin, read the [ANALYSIS.md](docs/ANALYSIS.md).
+
+The analysis covers architecture, token security, contract logic, vesting structure, rewards, regional fare logic, benefits to holders, and alignment within the AfrailX™, ArailX™, and Abba App ecosystem.
+
+---
+
 ## 🔗 Ecosystem Integration
 
 | Component            | Role                                                      |
