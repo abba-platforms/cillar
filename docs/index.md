@@ -1,31 +1,31 @@
-# Welcome to CillarCoin Documentation on Github
+# Welcome to the Official Documentation for CillarCoin on Github
 
-**CillarCoin ($CILLAR)** is a secure, smart utility token built for fare payments and transit rewards across **AfrailX** and **ArailX**, two advanced urban transportation systems designed for global deployment. Seamlessly integrated into the **Abba App**, CillarCoin supports programmable logic for rewards, refunds, regional pricing, and subscription access.
+CillarCoin ($CILLAR) is a utility token built on the BNB Smart Chain, powering smart, secure, and programmable fare payments across AfrailX and ArailX transit systems via the Abba App.
 
-## 🌐 Use Cases
+## 📚 Documentation Overview
 
-- 🎟️ Pay for rides on AfrailX and ArailX via the Abba App  
-- 💸 Get rewarded for frequent travel  
-- 🕒 Get refunds based on policy & zones  
-- 🌍 Supports localized fares & global expansion  
-- 🔐 Built on BNB Smart Chain and Web3 standards  
+Navigate through the following sections to learn more about how CillarCoin works:
 
-### 📚 Explore the Docs
+- [Whitepaper](docs/WHITEPAPER.md)
+- [Smart Contract](contracts/CillarCoin.sol)
+- [Fare Registry](contracts/FareRegistry.sol)
+- [Cillar Vesting Contract](contracts/CillarVesting.sol)
+- [Architecture Overview](docs/ARCHITECTURE.md)
+- [Roadmap](docs/ROADMAP.md)
+- [Governance](GOVERNANCE.md)
+- [Changelog](CHANGELOG.md)
+- [Contributing Guidelines](CONTRIBUTING.md)
+- [Security Policy](SECURITY.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 
-- [Whitepaper](./WHITEPAPER.md)
-- [System Architecture](./ARCHITECTURE.md)
-- [Governance](../cillar/GOVERNANCE.md)
-- [Changelog](../cillar/CHANGELOG.md)
+## 🛠 Development
 
-<!-- Coming Soon:
-- [Smart Contract](./contracts/CillarCoin.sol)
-- [API and Integration Tools](./docs/api.md)
--->
+For developers and integrators, you can find helpful files in the `utils/` and `abis/` directories, including:
 
-## 🧠 About
+- `web3.js`, `contracts.js`, `validators.js`, and `constants.js`
+- ABI files for smart contracts
 
-CillarCoin is designed and developed by **Simon Kapenda** and by maintained by **Abba Platforms Inc.**, with contributions from the global open-source community. For feedback, partnerships, and technical questions, reach out at:
+## 📬 Contact
 
-📩 **support@cillar.io**
-
----
+For technical support, suggestions, or governance-related inquiries, please contact:  
+📧 **support@cillar.io**
