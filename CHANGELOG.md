@@ -6,6 +6,19 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
+## [1.0.4] – 2025-06-30
+
+### Added
+
+-   `CILLARCOIN.md` — *Infrastructure & Use Case Expansion Plan*, detailing the full utility scope, technical architecture, DAO governance, and roadmap for CillarCoin.
+-   Analysis summary and reference to `CILLARCOIN.md` inserted into `README.md`.
+
+### Fixed
+
+-   Broken/dead link to `CILLARCOIN.md` in `README.md` corrected for direct accessibility.
+
+----------
+
 ## [1.0.3] – 2025-06-29
 
 ### Added
