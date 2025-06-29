@@ -36,6 +36,22 @@ The whitepaper explains the purpose, utility, architecture, smart contract logic
 
 ---
 
+### 📄 CillarCoin Ecosystem – Infrastructure & Use Case Expansion Plan
+
+A comprehensive, production-grade whitepaper detailing the technical, economic, and governance architecture of **CillarCoin ($CILLAR)** — a non-speculative ERC-20 utility token built on BNB Smart Chain. Designed specifically to power AfrailX and ArailX smart transit systems, CillarCoin extends beyond mobility to support smart city services, education credits, local governance, and decentralized marketplaces across Africa and beyond.
+
+**Key Highlights:**
+
+-   Built-in reward, refund, and compliance logic
+-   Region-customized smart contracts (FareRegistry, DAOManager, etc.)
+-   Civic-focused DAO governance with non-transferable voting tokens
+-   Progressive rollout model aligned with real-world infrastructure readiness
+-   Visionary path to become Africa’s first decentralized civic utility currency
+
+> This document serves as the blueprint for scaling blockchain-backed urban infrastructure, helping governments, NGOs, and enterprises deploy programmable public services with real-world impact.
+
+Read the whole document: [CILLACOIN.md](./CILLARCOIN.md)
+
 ## 📄 Analysis
 
 For a deep technical and ecosystem evaluation of CillarCoin, read the [ANALYSIS.md](docs/ANALYSIS.md).
