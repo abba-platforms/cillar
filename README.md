@@ -50,7 +50,7 @@ A comprehensive, production-grade whitepaper detailing the technical, economic, 
 
 > This document serves as the blueprint for scaling blockchain-backed urban infrastructure, helping governments, NGOs, and enterprises deploy programmable public services with real-world impact.
 
-Read the whole document: [CILLACOIN.md](./CILLARCOIN.md)
+Read the whole document: [CILLACOIN.md](docs/CILLARCOIN.md)
 
 ## 📄 Analysis
 
