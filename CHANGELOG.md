@@ -6,6 +6,15 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
+## [1.0.5] – 2025-06-30
+
+### Updated
+
+-   `WHITEPAPER.md` enhanced to include detailed sections on CillarDAO, benefits to holders, token lifecycle, and sustainability integration without altering original structure.
+-   Improved formatting and clarity across new sections added.
+
+----------
+
 ## [1.0.4] – 2025-06-30
 
 ### Added
