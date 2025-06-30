@@ -19,12 +19,24 @@ These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX
 
 ## 📷 Branding
 
-Official CillarCoin branding assets are located in the [`branding`](branding/) directory.
+Official CillarCoin branding assets including logos and tokens are located in the [`branding`](branding/) directory.
 
-### Token Previews
+### CillarCoin Token
+
+Here is the official CillarCoin Token — available in the [`branding`](branding/) folder:
 
 ![CillarCoin Token – Primary](branding/cillar-token-primary.jpg)
 ![CillarCoin Token – Angled](branding/cillar-token-left.jpg)
+
+### 🪙 CillarCoin Logo
+
+Here are the official CillarCoin Logos — available in the [`branding`](branding/) folder:
+
+| Preview | File |
+|---------|------|
+| ![](branding/cillar-logo-white-on-blue.jpg) | `cillar-logo-white-on-blue.jpg` |
+| ![](branding/cillar-logo-black-on-white.jpg) | `cillar-logo-black-on-white.jpg` |
+| ![](branding/cillar-logo-with-text.jpg) | `cillar-logo-with-text.jpg` |
 
 ---
 
