@@ -175,4 +175,4 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 
 Pull requests and audits are welcome. For questions or improvements, feel free to open an issue or contact the core team.
 
-> Developed and maintained by **Abba Platforms Inc.**, creators of the Afrail mobility ecosystem.
+> Created and developed by **Simon Kapenda**, Creator of Abba App and the Afrail mobility ecosystem. Maintained by **Abba Platforms Inc.**.
