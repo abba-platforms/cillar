@@ -1,4 +1,3 @@
-
 # CillarCoin Whitepaper
 
 ## Introduction
@@ -7,16 +6,17 @@ CillarCoin (CILLAR) is a digital utility token developed to power seamless trans
 
 This whitepaper outlines the architecture, use cases, technical specifications, and economic model of CillarCoin. Designed with utility and programmability in mind, CillarCoin also integrates regional fare logic, dynamic rewards, refund logic, KYC compliance, and CO₂ savings tracking—helping riders save time, cost, and environmental impact.
 
-## Website and Developer Info
+## Websites and Developer Info
 
 - Website: [https://cillar.io](https://cillar.io)
+- Website: [https://afrx.io](https://afrx.io)
+- Website: [https://afrail.xyz](https://afrail.xyz)
 - Platform: [https://abbapp.com](https://abbapp.com)
-- Developer: Abba Platforms Inc.
-- Founder: Simon Kapenda, CTO
+- Creator & Developer: Simon Kapenda, Founder & CTO (AFRX, Abba Platforms Inc., & Afrail Inc.)
 
 ## Purpose
 
-CillarCoin was created to enable real-time fare payment across all transit services under Afrail Inc., including AfrailX (Africa) and ArailX (U.S. and MENA). It will be the only token used within the Abba App to pay for all forms of mobility services—rail, bus, ferry, or autonomous pods—making it an integral programmable utility token of clean smart mobility for the Global South and beyond.
+CillarCoin was created to enable real-time fare payment across all transit services under Afrail Inc., including AfrailX (Africa and MENA) and ArailX (U.S. and beyond). It will be the only token used within the Abba App to pay for all forms of mobility services—rail, bus, ferry, or autonomous pods—making it an integral programmable utility token of clean smart mobility for the Global South and beyond.
 
 CillarCoin is not an investment or speculative token. It is purely a utility token used for transit payments, programmable logic, fare distribution, and sustainability tracking.
 
@@ -78,6 +78,23 @@ Users can convert local fiat currencies into stablecoins (e.g., USDT, BUSD) and 
 ## Governance and Ownership
 
 CillarCoin is maintained and governed by Abba Platforms Inc., with core development led by Simon Kapenda. Token economics and smart contract logic are publicly available under MIT License.
+
+## Cillar DAO and Hybrid Governance
+
+CillarCoin will transition into a community-governed protocol under the formation of the **CillarDAO**. Governance will be hybrid:
+
+- **Protocol Layer**: Controlled by core developers and platform maintainers for smart contract upgrades and security.
+- **Community Layer**: $CILLAR holders may vote on proposals affecting treasury allocation, sustainability initiatives, and feature rollouts.
+
+Voting rights and governance mechanisms will be defined in a future smart contract module.
+
+## Holder Benefits (Updated)
+
+- **Ride Rewards**: Loyalty logic grants token rewards after every 20 rides.
+- **Refund Assurance**: Smart contract refunds for qualifying cancelations.
+- **Subscription Perks**: Early access to prepaid ride packages and monthly discounts.
+- **Governance**: DAO governance rights for eligible holders.
+- **Upside Exposure**: Holders may benefit from future secondary market listings.
 
 ## License and Ownership
 
