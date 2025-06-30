@@ -6,6 +6,19 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
+## [1.0.2] – 2025‑06‑29
+
+### Added
+- Uploaded official CillarCoin logo assets to `branding/` folder:
+  - `cillar-logo-white-on-blue.jpg`
+  - `cillar-logo-black-on-white.jpg`
+  - `cillar-logo-with-text.jpg`
+
+### Updated
+- `README.md` updated to include a new "Branding" section with previews and references to the official CillarCoin logos
+
+----------
+
 ## [1.0.5] – 2025-06-30
 
 ### Updated
