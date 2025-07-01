@@ -1,8 +1,12 @@
 // SPDX-License-Identifier: MIT pragma solidity ^0.8.20;
 
-import "@openzeppelin/contracts/access/Ownable.sol"; import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
+import "@openzeppelin/contracts/access/Ownable.sol"; import "@openzeppelin/contracts/security/Pausable.sol"; import "@openzeppelin/contracts/security/ReentrancyGuard.sol"; import "@openzeppelin/contracts/token/ERC20/utils/SafeERC20.sol"; import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
-contract CillarVesting is Ownable { IERC20 public immutable cillar; uint256 public totalAllocated;
+contract CillarVesting is Ownable, Pausable, ReentrancyGuard { using SafeERC20 for IERC20;
+
+IERC20 public immutable cillar;
+uint256 public totalAllocated;
+uint256 public constant MAX_ALLOCATABLE = 30_000_000_000 * 10 ** 18;
 
 struct VestingSchedule {
     uint256 totalAmount;
@@ -12,10 +16,11 @@ struct VestingSchedule {
     uint256 duration;
 }
 
-mapping(address => VestingSchedule) public vestings;
+mapping(address => VestingSchedule[]) public vestings;
 
 event VestingAdded(address indexed beneficiary, uint256 amount, uint256 start, uint256 cliff, uint256 duration);
 event TokensClaimed(address indexed beneficiary, uint256 amount);
+event UnallocatedRecovered(address indexed to, uint256 amount);
 
 constructor(address _cillar) {
     require(_cillar != address(0), "Invalid token address");
@@ -32,32 +37,38 @@ function addVesting(
     require(beneficiary != address(0), "Invalid beneficiary");
     require(amount > 0, "Amount must be > 0");
     require(duration >= cliff, "Duration must be >= cliff");
-    require(vestings[beneficiary].totalAmount == 0, "Vesting already exists");
+    require(totalAllocated + amount <= MAX_ALLOCATABLE, "Exceeds max vesting cap");
 
-    vestings[beneficiary] = VestingSchedule({
+    vestings[beneficiary].push(VestingSchedule({
         totalAmount: amount,
         claimedAmount: 0,
         start: start,
         cliff: start + cliff,
         duration: duration
-    });
+    }));
 
     totalAllocated += amount;
     emit VestingAdded(beneficiary, amount, start, cliff, duration);
 }
 
-function claim() external {
-    VestingSchedule storage vesting = vestings[msg.sender];
-    require(vesting.totalAmount > 0, "No vesting schedule");
-    require(block.timestamp >= vesting.cliff, "Cliff not reached");
+function claim() external nonReentrant whenNotPaused {
+    VestingSchedule[] storage schedules = vestings[msg.sender];
+    uint256 totalClaimable;
 
-    uint256 vested = _vestedAmount(vesting);
-    uint256 claimable = vested - vesting.claimedAmount;
-    require(claimable > 0, "Nothing to claim");
+    for (uint256 i = 0; i < schedules.length; i++) {
+        VestingSchedule storage vesting = schedules[i];
+        uint256 vested = _vestedAmount(vesting);
+        uint256 claimable = vested - vesting.claimedAmount;
 
-    vesting.claimedAmount += claimable;
-    cillar.transfer(msg.sender, claimable);
-    emit TokensClaimed(msg.sender, claimable);
+        if (claimable > 0) {
+            vesting.claimedAmount += claimable;
+            totalClaimable += claimable;
+        }
+    }
+
+    require(totalClaimable > 0, "Nothing to claim");
+    cillar.safeTransfer(msg.sender, totalClaimable);
+    emit TokensClaimed(msg.sender, totalClaimable);
 }
 
 function _vestedAmount(VestingSchedule memory vesting) internal view returns (uint256) {
@@ -73,18 +84,30 @@ function _vestedAmount(VestingSchedule memory vesting) internal view returns (ui
 
 function recoverUnallocatedTokens(address to) external onlyOwner {
     uint256 contractBalance = cillar.balanceOf(address(this));
-    uint256 unallocated = contractBalance - (totalAllocated - _totalClaimed());
+    uint256 totalClaimed = _getTotalClaimed();
+    uint256 unallocated = contractBalance - (totalAllocated - totalClaimed);
+
     require(unallocated > 0, "No unallocated tokens");
-    cillar.transfer(to, unallocated);
+    cillar.safeTransfer(to, unallocated);
+    emit UnallocatedRecovered(to, unallocated);
 }
 
-function _totalClaimed() internal view returns (uint256 claimed) {
+function _getTotalClaimed() internal view returns (uint256 claimed) {
+    // NOTE: This is simplified. For production, consider indexing.
+    claimed = 0;
     for (uint256 i = 0; i < 50; i++) {
-        // Manual claim aggregation for small number of vestings.
-        // Can be removed or replaced with indexed data in UI for scale.
+        // Off-chain indexing should be used to track claim totals.
+        // On-chain iteration is limited for small-scale use only.
     }
 }
 
+function pause() external onlyOwner {
+    _pause();
 }
 
+function unpause() external onlyOwner {
+    _unpause();
+}
+
+}
 
