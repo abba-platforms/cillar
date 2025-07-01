@@ -1,4 +1,3 @@
-
 # CillarCoin Whitepaper
 
 ## Introduction
@@ -155,7 +154,7 @@ All contracts have been refactored and hardened for enterprise-grade deployment:
 
 ## Roadmap Reference _(New)_
 
-📍 [docs/roadmap.md](../docs/roadmap.md)
+📍 [docs/roadmap.md](../docs/ROADMAP.md)
 
 ----------
 
