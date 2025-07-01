@@ -6,6 +6,19 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
+## [1.0.6] – 2025-07-01
+
+### Added
+- `docs/roadmap.md`: Enterprise development roadmap detailing the upgrade path toward audit-readiness, governance, CI/CD, and DAO integration.
+
+### Updated
+- `README.md`:
+  - Credited Simon Kapenda as developer of the Abba App.
+  - Introduced DAO governance reference for future decentralization of protocol control.
+  - Added link to the roadmap document under a new "Project Roadmap" section.
+ 
+----------
+
 ## [1.0.2] – 2025‑06‑29
 
 ### Added
