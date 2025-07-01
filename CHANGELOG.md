@@ -8,27 +8,10 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ## [1.0.6] – 2025-07-01
 
-### Added
-- `docs/roadmap.md`: Enterprise development roadmap detailing the upgrade path toward audit-readiness, governance, CI/CD, and DAO integration.
+### Fixed
 
-### Updated
-- `README.md`:
-  - Credited Simon Kapenda as developer of the Abba App.
-  - Introduced DAO governance reference for future decentralization of protocol control.
-  - Added link to the roadmap document under a new "Project Roadmap" section.
- 
-----------
-
-## [1.0.2] – 2025‑06‑29
-
-### Added
-- Uploaded official CillarCoin logo assets to `branding/` folder:
-  - `cillar-logo-white-on-blue.jpg`
-  - `cillar-logo-black-on-white.jpg`
-  - `cillar-logo-with-text.jpg`
-
-### Updated
-- `README.md` updated to include a new "Branding" section with previews and references to the official CillarCoin logos
+-   Corrected dead footer link to `ROADMAP.md` in `WHITEPAPER.md`
+-   Fixed broken `ROADMAP.md` reference in `README.md` to ensure navigation compatibility
 
 ----------
 
@@ -45,7 +28,7 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ### Added
 
--   `CILLARCOIN.md` — *Infrastructure & Use Case Expansion Plan*, detailing the full utility scope, technical architecture, DAO governance, and roadmap for CillarCoin.
+-   `CILLARCOIN.md` — _Infrastructure & Use Case Expansion Plan_, detailing the full utility scope, technical architecture, DAO governance, and roadmap for CillarCoin.
 -   Analysis summary and reference to `CILLARCOIN.md` inserted into `README.md`.
 
 ### Fixed
@@ -60,6 +43,21 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 -   `ANALYSIS.md` document covering technical insights, benefits to holders, and project positioning.
 -   Reference to `ANALYSIS.md` added to `README.md`.
+
+----------
+
+## [1.0.2] – 2025‑06‑29
+
+### Added
+
+-   Uploaded official CillarCoin logo assets to `branding/` folder:
+    -   `cillar-logo-white-on-blue.jpg`
+    -   `cillar-logo-black-on-white.jpg`
+    -   `cillar-logo-with-text.jpg`
+
+### Updated
+
+-   `README.md` updated to include a new "Branding" section with previews and references to the official CillarCoin logos
 
 ----------
 
