@@ -1,24 +1,16 @@
 // SPDX-License-Identifier: MIT pragma solidity ^0.8.20;
 
-contract FareRegistry { address public admin;
+import "@openzeppelin/contracts/access/Ownable.sol"; import "@openzeppelin/contracts/security/Pausable.sol";
 
-struct FareInfo {
-    uint256 nadFare;       // Fare in NAD (Namibian Dollars)
-    uint256 usdConversion; // USD to NAD conversion rate (e.g., 18.00 NAD = 1 USD => 18 * 10^18)
-}
+contract FareRegistry is Ownable, Pausable { struct FareInfo { uint256 nadFare;       // Fare in NAD (Namibian Dollars) uint256 usdConversion; // USD to NAD conversion rate (e.g., 18.00 NAD = 1 USD => 18 * 10^18) }
 
 // region => zone => fare info
 mapping(uint256 => mapping(uint256 => FareInfo)) public fares;
 
 event FareUpdated(uint256 region, uint256 zone, uint256 nadFare, uint256 usdConversion);
 
-modifier onlyAdmin() {
-    require(msg.sender == admin, "Only admin");
-    _;
-}
-
 constructor() {
-    admin = msg.sender;
+    transferOwnership(msg.sender);
 }
 
 function setFare(
@@ -26,7 +18,7 @@ function setFare(
     uint256 zone,
     uint256 nadFare,
     uint256 usdConversion
-) external onlyAdmin {
+) external onlyOwner whenNotPaused {
     require(nadFare > 0, "Fare must be > 0");
     require(usdConversion > 0, "Conversion must be > 0");
     fares[region][zone] = FareInfo(nadFare, usdConversion);
@@ -49,18 +41,27 @@ function batchSeedFares(
     uint256[] calldata zones,
     uint256[] calldata nadFares,
     uint256[] calldata usdConversions
-) external onlyAdmin {
+) external onlyOwner whenNotPaused {
     require(
         regions.length == zones.length &&
         zones.length == nadFares.length &&
         nadFares.length == usdConversions.length,
         "Input length mismatch"
     );
+    require(regions.length <= 50, "Batch limit exceeded");
 
     for (uint256 i = 0; i < regions.length; i++) {
         fares[regions[i]][zones[i]] = FareInfo(nadFares[i], usdConversions[i]);
         emit FareUpdated(regions[i], zones[i], nadFares[i], usdConversions[i]);
     }
+}
+
+function pause() external onlyOwner {
+    _pause();
+}
+
+function unpause() external onlyOwner {
+    _unpause();
 }
 
 }
