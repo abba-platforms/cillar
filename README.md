@@ -1,6 +1,8 @@
 # CillarCoin (CILLAR)
 
-**CillarCoin** is a programmable ERC-20 utility token developed by **Abba Platforms Inc.** to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems through the **Abba App**. It is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem.
+**CillarCoin** ($CILLAR) is a programmable ERC-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It facilitates transit fare payments on **AfrailX** and **ArailX** smart mobility systems through the **Abba App**.
+
+CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation.
 
 ---
 
@@ -134,6 +136,14 @@ To test locally with Hardhat:
 ```bash
 npx hardhat test
 ```
+
+---
+
+## 🧭 Project Roadmap
+
+We are committed to maintaining CillarCoin as an enterprise-grade, production-ready token infrastructure. Our official roadmap outlines the technical and governance milestones to elevate the platform to full audit certification and DAO-readiness.
+
+📍 [View the Enterprise Development Roadmap](docs/roadmap.md)
 
 ---
 
