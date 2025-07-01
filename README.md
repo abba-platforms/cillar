@@ -143,7 +143,7 @@ npx hardhat test
 
 We are committed to maintaining CillarCoin as an enterprise-grade, production-ready token infrastructure. Our official roadmap outlines the technical and governance milestones to elevate the platform to full audit certification and DAO-readiness.
 
-📍 [View the Enterprise Development Roadmap](docs/roadmap.md)
+📍 [View the Enterprise Development Roadmap](docs/ROADMAP.md)
 
 ---
 
