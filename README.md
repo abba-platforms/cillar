@@ -34,6 +34,15 @@ These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX
 
 ---
 
+## 🚀 Deployment (Mainnet)
+
+The CillarCoin contract has been deployed and verified on BNB Smart Chain Mainnet.  
+Details available in [`deployed-contracts/`](./deployed-contracts/README.md).
+
+🔗 [View on BscScan](https://bscscan.com/address/0x4364a697bB204C8239b40d038F500971f6fe4D37#code)
+
+---
+
 ## 📷 Branding
 
 Official CillarCoin branding assets including logos and tokens are located in the [`branding`](branding/) directory.
