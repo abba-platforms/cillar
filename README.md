@@ -5,6 +5,19 @@
 ![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen)
 [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
 
+## 🔁 Now Trading on PancakeSwap
+
+We’re excited to announce that **CillarCoin ($CILLAR)** is officially live on **PancakeSwap** — one of the world’s largest decentralized exchanges.
+
+- 🟢 **Trading Pair**: CILLAR / BNB  
+- 🔗 **Trade Now**: [https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37](https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37)  
+- 💧 **Initial Liquidity**: 10,000 CILLAR + 0.04 BNB  
+- 🔐 **Verified Contract on BscScan**: [0x4364a697bB204C8239b40d038F500971f6fe4D37](https://bscscan.com/token/0x4364a697bB204C8239b40d038F500971f6fe4D37)
+
+---
+
+## What's CillarCoin?
+
 **CillarCoin** ($CILLAR) is a programmable ERC-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It facilitates transit fare payments on **AfrailX** and **ArailX** smart mobility systems through the **Abba App**.
 
 CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation.
