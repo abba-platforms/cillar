@@ -6,14 +6,12 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
-## [1.0.8] – 2025-07-08
+## [1.0.8] – 2025-07-09
 
 ### Added
 
--   `deployed-contracts/README.md` with full verified deployment info for `CillarCoin`.
--   Mainnet deployment address, constructor arguments, and ABI reference.
--   Timestamp, network info, and optimization status.
--   Verified BscScan link for contract `CillarCoin` at `0x4364a697bB204C8239b40d038F500971f6fe4D37`.
+-   CillarCoin ($CILLAR) is now live and trading on PancakeSwap.
+-   Repository `README.md` updated with announcement of PancakeSwap listing.
 
 ----------
 
