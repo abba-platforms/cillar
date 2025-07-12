@@ -6,6 +6,17 @@ This project adheres to [Semantic Versioning](https://semver.org/) and [Keep a C
 
 ----------
 
+## [1.0.9] – 2025-07-12
+
+### Updated
+
+-   `WHITEPAPER.md` updated to reflect latest on-chain token data:
+    -   **Total Supply** corrected to **40,000,000,000**
+    -   **Initial Supply** reference removed (not supported on-chain)
+    -   Tokenomics updated to match live contract data on BNB Smart Chain
+
+----------
+
 ## [1.0.8] – 2025-07-09
 
 ### Added
