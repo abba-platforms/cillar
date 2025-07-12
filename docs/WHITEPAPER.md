@@ -27,7 +27,7 @@ CillarCoin is not an investment or speculative token. It is purely a utility tok
 -   **Type:** Utility Token
 -   **Standard:** ERC-20 (with extended logic for reward/refund/fare compliance)
 -   **Blockchain:** BNB Smart Chain
--   **Initial Supply:** 10 billion (10,000,000,000)
+-   **Total Supply:** 40 billion (40,000,000,000)
 -   **Max Supply Cap:** 100 billion (100,000,000,000)
 -   **Decimals:** 18
 -   **Initial Price per Token:** $0.10 (USD)
@@ -108,7 +108,7 @@ Voting rights and governance mechanisms will be defined in a future smart contra
 
 -   **License:** MIT
 -   **Copyright:** © 2025 Abba Platforms Inc.
--   **Developed by:** Simon Kapenda
+-   **Created and Developed by:** Simon Kapenda
 -   **Maintained by:** Abba Platforms Inc.
 
 ## Roadmap
