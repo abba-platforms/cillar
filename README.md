@@ -42,6 +42,7 @@ These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX
 - [Infrastructure & DAO Plan](docs/CILLARCOIN.md)
 - [Technical Architecture](docs/ARCHITECTURE.md)
 - [Token Analysis](docs/ANALYSIS.md)
+- [Vesting Plan](docs/VESTING_PLAN.md)
 - [Project Roadmap](docs/ROADMAP.md)
 - [Audit Log & Status](AUDIT.md)
 
