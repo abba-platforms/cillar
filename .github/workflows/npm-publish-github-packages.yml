@@ -1,15 +1,32 @@
-{
-  "name": "@abba-platforms/cillar",
-  "version": "1.0.0",
-  "description": "JavaScript utilities for interacting with CillarCoin smart contracts",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/abba-platforms/cillar"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/"
-  },
-  "author": "Simon Kapenda <skapenda@gmail.com>",
-  "license": "MIT"
-}
+name: Publish to GitHub Packages
+
+on:
+  push:
+    tags:
+      - 'v*.*.*'  # Only run when pushing tags like v1.0.0
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      packages: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          registry-url: 'https://npm.pkg.github.com/'
+
+      - name: Authenticate with GitHub Token
+        run: echo "//npm.pkg.github.com/:_authToken=${{ secrets.GITHUB_TOKEN }}" > ~/.npmrc
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Publish to GitHub Packages
+        run: npm publish
