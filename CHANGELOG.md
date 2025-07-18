@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.0.10] – 2025-07-18
+
+### Added
+
+-   `IEO.md` created in project root to summarize Initial Exchange Offering plans and configuration
+-   `IEO_FAQ.md` published in `docs/` with common questions and answers about the CillarCoin IEO process
+-   `README.md` updated to include:
+    -   IEO announcement and details section placed above PancakeSwap information
+    -   Links to newly added `IEO.md` and FAQ
+-   `CHANGELOG.md` updated to reflect version 1.0.10
+
+----------
+
 ## [1.0.9] – 2025-07-16
 
 ### Added
