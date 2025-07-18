@@ -12,6 +12,10 @@ The IEO will feature an allocation of **1,000,000,000 $CILLAR tokens** at **$0.1
 
 📖 [View Full IEO Details](./IEO.md)
 
+### 📘 CillarCoin IEO FAQ  
+Get answers to the most common questions about our Initial Exchange Offering (IEO).  
+[View IEO FAQ →](./IEO_FAQ.md)
+
 ----------
 
 ### 🥞 Buy on PancakeSwap
