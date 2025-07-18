@@ -5,14 +5,21 @@
 ![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen)
 [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
 
-## 🔁 Now Trading on PancakeSwap
+## 🚀 Initial Exchange Offering (IEO) on P2B Exchange
 
-We’re excited to announce that **CillarCoin ($CILLAR)** is officially live on **PancakeSwap** — one of the world’s largest decentralized exchanges.
+CillarCoin is launching its Initial Exchange Offering (IEO) on **P2B Exchange**, one of the leading global crypto platforms.  
+The IEO will feature an allocation of **1,000,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$150 million USD** to support smart mobility deployments via AfrailX™ and ArailX™.
 
-- 🟢 **Trading Pair**: CILLAR / BNB  
-- 🔗 **Trade Now**: [https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37](https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37)  
-- 💧 **Initial Liquidity**: 10,000 CILLAR + 0.04 BNB  
-- 🔐 **Verified Contract on BscScan**: [0x4364a697bB204C8239b40d038F500971f6fe4D37](https://bscscan.com/token/0x4364a697bB204C8239b40d038F500971f6fe4D37)
+📖 [View Full IEO Details](./IEO.md)
+
+----------
+
+### 🥞 Buy on PancakeSwap
+
+Swap BNB for $CILLAR via PancakeSwap:  
+🔗 [https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37](https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37)
+
+🔐 **Verified Contract on BscScan**: [0x4364a697bB204C8239b40d038F500971f6fe4D37](https://bscscan.com/token/0x4364a697bB204C8239b40d038F500971f6fe4D37)
 
 ---
 
