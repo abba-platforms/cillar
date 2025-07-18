@@ -7,8 +7,7 @@
 
 ## 🚀 Initial Exchange Offering (IEO) on P2B Exchange
 
-CillarCoin is launching its Initial Exchange Offering (IEO) on **P2B Exchange**, one of the leading global crypto platforms.  
-The IEO will feature an allocation of **1,000,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$150 million USD** to support smart mobility deployments via AfrailX™ and ArailX™.
+CillarCoin is launching its Initial Exchange Offering (IEO) on **P2B Exchange**, one of the leading global crypto platforms. The IEO will feature an allocation of **1,000,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$150 million USD** to support smart mobility deployments via AfrailX™ and ArailX™.
 
 📖 [View Full IEO Details](./IEO.md)
 
@@ -51,6 +50,7 @@ These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX
 ## Documentation
 - [Whitepaper](docs/WHITEPAPER.md)
 - [Infrastructure & DAO Plan](docs/CILLARCOIN.md)
+- [IEO Demand Summary](docs/IEO_Demand_Summary.md)
 - [Technical Architecture](docs/ARCHITECTURE.md)
 - [Token Analysis](docs/ANALYSIS.md)
 - [Vesting Plan](docs/VESTING_PLAN.md)
