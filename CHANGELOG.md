@@ -8,12 +8,8 @@ All notable changes to this project will be documented in this file. This projec
 
 ### Added
 
--   `IEO.md` created in project root to summarize Initial Exchange Offering plans and configuration
--   `IEO_FAQ.md` published in `docs/` with common questions and answers about the CillarCoin IEO process
--   `README.md` updated to include:
-    -   IEO announcement and details section placed above PancakeSwap information
-    -   Links to newly added `IEO.md` and FAQ
--   `CHANGELOG.md` updated to reflect version 1.0.10
+-   `IEO_Demand_Summary.md` added to `docs/` with comprehensive insights on token demand, market positioning, and uptake potential across user groups and investor types.
+-   Updated `README.md` Documentation section to include the new demand summary link.
 
 ----------
 
@@ -21,9 +17,9 @@ All notable changes to this project will be documented in this file. This projec
 
 ### Added
 
--   CillarCoin Token Vesting Plan published in `docs/CillarCoin_Token_Vesting_Plan.md`
--   Token metrics (Max Supply, Total Supply, Minted Supply) added to README.md
--   Verified contract address and governance links included in README
+-   CillarCoin Token Vesting Plan published in `docs/VESTING_PLAN.md`
+-   Token metrics (Max Supply, Total Supply, Minted Supply) added to `README.md`
+-   Verified contract address and governance links included in `README.md`
 
 ----------
 
