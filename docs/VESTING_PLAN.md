@@ -88,7 +88,7 @@
 
 ## Contact for Institutional Inquiries
 
-**[invest@afrail.xyz](mailto:invest@afrail.xyz)**
+**[ir@afrail.xyz](mailto:ir@afrail.xyz)**
 
 ----------
 
