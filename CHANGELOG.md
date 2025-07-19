@@ -4,6 +4,23 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.0.11] – 2025-07-19
+
+### Updated
+
+- `README.md` updated to reflect:
+  - 10,000,000,000 $CILLAR minted and confirmed on-chain
+  - 10,000 $CILLAR listed and trading on PancakeSwap
+  - Links added to `ALLOCATION.md` and `VESTING_PLAN.md` under Tokenomics and Documentation
+  - Circulating supply clarified separately from max supply
+
+### Added
+
+- Extended commit description and vesting section embedded in canvas for documentation traceability
+- Alignment with real-time contract status and IEO onboarding visibility
+
+----------
+
 ## [1.0.10] – 2025-07-18
 
 ### Added
