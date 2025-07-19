@@ -6,6 +6,19 @@ All notable changes to this project will be documented in this file. This projec
 
 ## [1.0.12] – 2025-07-19
 
+### Added
+
+-   `RELEASE_NOTES.md` file created to summarize the production-ready state of the repository for exchange and investor packaging.
+-   IEO FAQ updated in `docs/IEO_FAQ.md` to clarify the founder, total supply, and extended IEO period beyond 12 weeks if needed.
+
+### Updated
+
+-   `README.md` finalized with complete IEO details, tokenomics, contract links, branding, smart contract descriptions, and ecosystem references for CillarCoin, AFRX, Abba App, AfrailX, and ArailX.
+
+----------
+
+## [1.0.12] – 2025-07-19
+
 ### Updated
 
 - `IEO_FAQ.md` updated to reflect latest Initial Exchange Offering (IEO) details:
