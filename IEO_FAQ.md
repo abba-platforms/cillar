@@ -38,15 +38,15 @@ A total of **1,000,000,000 $CILLAR** tokens are allocated for the IEO.
 
 ### 📅 What is the IEO period?
 
-The IEO is planned to run for **up to 12 weeks**, beginning shortly after the onboarding process is complete.
+The IEO will run for an initial **12-week period** from **August 4 to October 27, 2025**, with the option to extend beyond that under our unlimited P2B package.
 
 ----------
 
 ### 🪙 What is the total supply of $CILLAR?
 
--   **Total Supply:** 40,000,000,000
 -   **Max Supply:** 100,000,000,000
--   **Minted so far:** 10,000,000,000
+-   **Initial Supply Cap:** 40,000,000,000
+-   **Minted to Date:** 10,000,000,000 (10% of max supply)
 
 ----------
 
@@ -73,23 +73,25 @@ You can also trade $CILLAR on:
 
 -   **PancakeSwap:** [https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37](https://pancakeswap.finance/swap?outputCurrency=0x4364a697bB204C8239b40d038F500971f6fe4D37)
 
+Currently, 10,000 $CILLAR is available in the initial liquidity pool on PancakeSwap, backed by the Liquidity & DEX allocation.
+
 ----------
 
 ### 📊 Where can I track market data?
 
--   **GeckoTerminal:** [https://www.geckoterminal.com/bsc/pools/0x4364a697bB204C8239b40d038F500971f6fe4D37](https://www.geckoterminal.com/bsc/pools/0x4364a697bB204C8239b40d038F500971f6fe4D37)
+-   **GeckoTerminal:** [https://www.geckoterminal.com/bsc/pools/0x570e764ffbaf6fa49c95cc5d9533b1b4c5cfa7ef](https://www.geckoterminal.com/bsc/pools/0x570e764ffbaf6fa49c95cc5d9533b1b4c5cfa7ef)
 
 ----------
 
 ### 🧠 Who is behind CillarCoin?
 
-CillarCoin is part of the **Abba Platforms Inc.** ecosystem and powered by **Afrail Inc.**, led by its founder and CTO **Simon Kapenda**.
+**CillarCoin** was **created and developed by Simon Kapenda**, and is maintained by **Abba Platforms Inc.** It is part of the broader smart infrastructure ecosystem powered by **Afrail Inc.**, including **AfrailX**, **ArailX**, and the **Abba App**.
 
 ----------
 
 ### 📬 Who can I contact for institutional inquiries?
 
-Email: **[invest@afrail.xyz](mailto:invest@afrail.xyz)**
+Email: **[ir@afrail.xyz](mailto:ir@afrail.xyz)**
 
 ----------
 
