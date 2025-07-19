@@ -4,6 +4,18 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.0.13] – 2025-07-19
+
+### Updated
+
+-   `VESTING_PLAN.md` enhanced to include:
+    -   ✅ **25B $CILLAR founder allocation** for Simon Kapenda, with optional smart contract vesting provisions.
+    -   ✅ **Executive future vesting clause** granting an additional 1B $CILLAR each after 3 years, increasing total potential allocation to 1.5B per executive.
+-   Original vesting terms for team members, reserves, liquidity, and public sales remain unchanged.
+-   Document maintains full formatting and compliance references for clarity and public documentation.
+
+----------
+
 ## [1.0.12] – 2025-07-19
 
 ### Added
