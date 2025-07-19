@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.0.12] – 2025-07-19
+
+### Updated
+
+- `IEO_FAQ.md` updated to reflect latest Initial Exchange Offering (IEO) details:
+  - Confirmed IEO schedule: August 4 – October 27, 2025
+  - Clarified supply structure: Max Supply vs. Initial Cap vs. Minted Supply
+  - Added PancakeSwap listing note (10,000 $CILLAR in initial liquidity)
+  - Revised team attribution: created by Simon Kapenda, maintained by Abba Platforms Inc.
+
+### Purpose
+
+This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.md`, and live on-chain status ahead of the public IEO launch on P2B Exchange.
+
+----------
+
 ## [1.0.11] – 2025-07-19
 
 ### Updated
