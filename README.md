@@ -22,14 +22,11 @@ Swap BNB for $CILLAR via PancakeSwap:
 
 🔐 **Verified Contract on BscScan**: [0x4364a697bB204C8239b40d038F500971f6fe4D37](https://bscscan.com/token/0x4364a697bB204C8239b40d038F500971f6fe4D37)
 
-💡 **Live Circulating Status**:  
-As of now, **10,000,000,000 $CILLAR** has been minted on-chain, and **10,000 $CILLAR** is actively listed on PancakeSwap as part of the Liquidity & DEX allocation.
-
 ----------
 
 ## What's CillarCoin?
 
-**CillarCoin** ($CILLAR) is a programmable ERC-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It facilitates transit fare payments on **AfrailX** and **ArailX** smart mobility systems through the **Abba App**.
+**CillarCoin** ($CILLAR) is a programmable ERC-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It is built to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems exclusively through the **Abba App**.
 
 CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation.
 
@@ -54,13 +51,15 @@ These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX
 
 -   [Whitepaper](docs/WHITEPAPER.md)
 -   [Infrastructure & DAO Plan](docs/CILLARCOIN.md)
+-   [Initial Exchange Offering (IEO)](IEO.md)
 -   [IEO Demand Summary](docs/IEO_Demand_Summary.md)
 -   [Technical Architecture](docs/ARCHITECTURE.md)
 -   [Token Analysis](docs/ANALYSIS.md)
--   [Vesting Plan](docs/VESTING_PLAN.md)
 -   [Token Allocation](docs/ALLOCATION.md)
+-   [Vesting Plan](docs/VESTING_PLAN.md)
 -   [Project Roadmap](docs/ROADMAP.md)
 -   [Audit Log & Status](AUDIT.md)
+-   [Release Notes](RELEASE_NOTES.md)
 
 ----------
 
@@ -161,7 +160,7 @@ Smart mobility systems operating in target cities
 
 ----------
 
-## 🫫 Smart Contracts
+## 🧱 Smart Contracts
 
 This repository contains the following contracts:
 
@@ -171,7 +170,7 @@ This repository contains the following contracts:
 
 ----------
 
-## 🛠️ Features
+## 🛠 Features
 
 -   ✅ KYC enforcement
 -   ✅ Fare reward system (e.g. every 20 rides)
@@ -188,7 +187,10 @@ This repository contains the following contracts:
 -   **Token Name**: CillarCoin
 -   **Ticker**: CILLAR
 -   **Max Supply**: 100,000,000,000 CILLAR
--   **Initial Mint**: 10,000,000,000 (10%) minted and live on-chain
+-   **Total Supply**: 40,000,000,000 CILLAR
+-   **Founder's Allocation**: 25,000,000,000 CILLAR (25%) to be distributed gradually
+-   **IEO Allocation**: 1,000,000,000 CILLAR
+-   **Initial Mint**: 10,000,000,000 CILLAR (10%) minted and live on-chain
 
 ### Distribution Plan
 
@@ -212,9 +214,6 @@ Vesting Reserve
 
 10%
 
-See full allocation details in: [docs/ALLOCATION.md](docs/ALLOCATION.md)  
-See vesting schedules in: [docs/VESTING_PLAN.md](docs/VESTING_PLAN.md)
-
 ----------
 
 ## 📦 Installation
@@ -233,7 +232,7 @@ npx hardhat test
 
 ----------
 
-## 🤭 Project Roadmap
+## 🧭 Project Roadmap
 
 We are committed to maintaining CillarCoin as an enterprise-grade, production-ready token infrastructure. Our official roadmap outlines the technical and governance milestones to elevate the platform to full audit certification and DAO-readiness.
 
