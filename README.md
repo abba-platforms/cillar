@@ -1,9 +1,6 @@
 # CillarCoin (CILLAR)
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-![Built with Solidity](https://img.shields.io/badge/built%20with-Solidity-363636)
-![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen)
-[![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Built with Solidity](https://img.shields.io/badge/built%20with-Solidity-363636) ![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen) [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
 
 ## 🚀 Initial Exchange Offering (IEO) on P2B Exchange
 
@@ -11,7 +8,8 @@ CillarCoin is launching its Initial Exchange Offering (IEO) on **P2B Exchange**,
 
 📖 [View Full IEO Details](./IEO.md)
 
-### 📘 CillarCoin IEO FAQ  
+### 📘 CillarCoin IEO FAQ
+
 Get answers to the most common questions about our Initial Exchange Offering (IEO).  
 [View IEO FAQ →](./IEO_FAQ.md)
 
@@ -24,7 +22,10 @@ Swap BNB for $CILLAR via PancakeSwap:
 
 🔐 **Verified Contract on BscScan**: [0x4364a697bB204C8239b40d038F500971f6fe4D37](https://bscscan.com/token/0x4364a697bB204C8239b40d038F500971f6fe4D37)
 
----
+💡 **Live Circulating Status**:  
+As of now, **10,000,000,000 $CILLAR** has been minted on-chain, and **10,000 $CILLAR** is actively listed on PancakeSwap as part of the Liquidity & DEX allocation.
+
+----------
 
 ## What's CillarCoin?
 
@@ -32,32 +33,36 @@ Swap BNB for $CILLAR via PancakeSwap:
 
 CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation.
 
----
+----------
 
 ## 🚇 Purpose
+
 CillarCoin is designed to:
-- Pay for transit rides via Abba App on AfrailX and ArailX smart mobility systems
-- Earn ride rewards and loyalty bonuses
-- Enable regional, children and senior fare discounts
-- Track ride-based CO₂ emissions savings
-- Allow refundable transactions within defined windows
-- Support KYC-based user eligibility
+
+-   Pay for transit rides via Abba App on AfrailX and ArailX smart mobility systems
+-   Earn ride rewards and loyalty bonuses
+-   Enable regional, children and senior fare discounts
+-   Track ride-based CO₂ emissions savings
+-   Allow refundable transactions within defined windows
+-   Support KYC-based user eligibility
 
 These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX in the U.S. and beyond—represent the future of clean, efficient, and scalable urban transit. CillarCoin enables seamless payments across these networks through a unified token ecosystem.
 
----
+----------
 
 ## Documentation
-- [Whitepaper](docs/WHITEPAPER.md)
-- [Infrastructure & DAO Plan](docs/CILLARCOIN.md)
-- [IEO Demand Summary](docs/IEO_Demand_Summary.md)
-- [Technical Architecture](docs/ARCHITECTURE.md)
-- [Token Analysis](docs/ANALYSIS.md)
-- [Vesting Plan](docs/VESTING_PLAN.md)
-- [Project Roadmap](docs/ROADMAP.md)
-- [Audit Log & Status](AUDIT.md)
 
----
+-   [Whitepaper](docs/WHITEPAPER.md)
+-   [Infrastructure & DAO Plan](docs/CILLARCOIN.md)
+-   [IEO Demand Summary](docs/IEO_Demand_Summary.md)
+-   [Technical Architecture](docs/ARCHITECTURE.md)
+-   [Token Analysis](docs/ANALYSIS.md)
+-   [Vesting Plan](docs/VESTING_PLAN.md)
+-   [Token Allocation](docs/ALLOCATION.md)
+-   [Project Roadmap](docs/ROADMAP.md)
+-   [Audit Log & Status](AUDIT.md)
+
+----------
 
 ## 🚀 Deployment (Mainnet)
 
@@ -66,7 +71,7 @@ Details available in [`deployed-contracts/`](./deployed-contracts/README.md).
 
 🔗 [View on BscScan](https://bscscan.com/address/0x4364a697bB204C8239b40d038F500971f6fe4D37#code)
 
----
+----------
 
 ## 📷 Branding
 
@@ -76,20 +81,29 @@ Official CillarCoin branding assets including logos and tokens are located in th
 
 Here is the official CillarCoin Token — available in the [`branding`](branding/) folder:
 
-![CillarCoin Token – Primary](branding/cillar-token-primary.jpg)
-![CillarCoin Token – Angled](branding/cillar-token-left.jpg)
+![CillarCoin Token – Primary](branding/cillar-token-primary.jpg) ![CillarCoin Token – Angled](branding/cillar-token-left.jpg)
 
 ### 🪙 CillarCoin Logo
 
 Here are the official CillarCoin Logos — available in the [`branding`](branding/) folder:
 
-| Preview | File |
-|---------|------|
-| ![](branding/cillar-logo-white-on-blue.jpg) | `cillar-logo-white-on-blue.jpg` |
-| ![](branding/cillar-logo-black-on-white.jpg) | `cillar-logo-black-on-white.jpg` |
-| ![](branding/cillar-logo-with-text.jpg) | `cillar-logo-with-text.jpg` |
+Preview
 
----
+File
+
+![](branding/cillar-logo-white-on-blue.jpg)
+
+`cillar-logo-white-on-blue.jpg`
+
+![](branding/cillar-logo-black-on-white.jpg)
+
+`cillar-logo-black-on-white.jpg`
+
+![](branding/cillar-logo-with-text.jpg)
+
+`cillar-logo-with-text.jpg`
+
+----------
 
 ## 📄 Whitepaper
 
@@ -97,7 +111,7 @@ For full technical and economic details about CillarCoin, please refer to the [W
 
 The whitepaper explains the purpose, utility, architecture, smart contract logic, deployment roadmap, and how CillarCoin integrates with AfrailX™, ArailX™, and the Abba App ecosystem.
 
----
+----------
 
 ### 📄 CillarCoin Ecosystem – Infrastructure & Use Case Expansion Plan
 
@@ -121,80 +135,111 @@ For a deep technical and ecosystem evaluation of CillarCoin, read the [ANALYSIS.
 
 The analysis covers architecture, token security, contract logic, vesting structure, rewards, regional fare logic, benefits to holders, and alignment within the AfrailX™, ArailX™, and Abba App ecosystem.
 
----
+----------
 
 ## 🔗 Ecosystem Integration
 
-| Component            | Role                                                      |
-|----------------------|-----------------------------------------------------------|
-| **AFRX Token**       | Investor-grade security token for infrastructure funding  |
-| **CILLAR Token**     | Utility token for riders to pay fares in Abba App         |
-| **Abba App**         | User-facing payment app integrated with smart contracts   |
-| **AfrailX / ArailX** | Smart mobility systems operating in target cities         |
+Component
 
----
+Role
 
-## 🧱 Smart Contracts
+**AFRX Token**
+
+Investor-grade security token for infrastructure funding
+
+**CILLAR Token**
+
+Utility token for riders to pay fares in Abba App
+
+**Abba App**
+
+User-facing payment app integrated with smart contracts
+
+**AfrailX / ArailX**
+
+Smart mobility systems operating in target cities
+
+----------
+
+## 🫫 Smart Contracts
 
 This repository contains the following contracts:
 
-- `CillarCoin.sol` – Main token contract with reward, refund, and KYC logic  
-- `FareRegistry.sol` – Region-based fare and pricing logic  
-- `CillarVesting.sol` – Treasury and vesting logic for long-term supply control  
+-   `CillarCoin.sol` – Main token contract with reward, refund, and KYC logic
+-   `FareRegistry.sol` – Region-based fare and pricing logic
+-   `CillarVesting.sol` – Treasury and vesting logic for long-term supply control
 
----
+----------
 
-## 🛠 Features
+## 🛠️ Features
 
-- ✅ KYC enforcement  
-- ✅ Fare reward system (e.g. every 20 rides)  
-- ✅ Refundable fares within a 48-hour window  
-- ✅ Operator fee forwarding to treasury  
-- ✅ Configurable regional fares and senior discounts  
-- ✅ CO₂ savings tracker  
-- ✅ Subscription tracking  
+-   ✅ KYC enforcement
+-   ✅ Fare reward system (e.g. every 20 rides)
+-   ✅ Refundable fares within a 48-hour window
+-   ✅ Operator fee forwarding to treasury
+-   ✅ Configurable regional fares and senior discounts
+-   ✅ CO₂ savings tracker
+-   ✅ Subscription tracking
 
----
+----------
 
 ## 💡 Tokenomics
 
-- **Token Name**: CillarCoin  
-- **Ticker**: CILLAR  
-- **Max Supply**: 100,000,000,000 CILLAR  
-- **Initial Mint**: 25,000,000,000 (25%) to be distributed gradually
+-   **Token Name**: CillarCoin
+-   **Ticker**: CILLAR
+-   **Max Supply**: 100,000,000,000 CILLAR
+-   **Initial Mint**: 10,000,000,000 (10%) minted and live on-chain
 
 ### Distribution Plan
 
-| Category            | Allocation |
-|---------------------|------------|
-| Public Treasury     | 45%        |
-| Founders & Team     | 25%        |
-| Ecosystem & Rewards | 20%        |
-| Vesting Reserve     | 10%        |
+Category
 
----
+Allocation
+
+Public Treasury
+
+45%
+
+Founders & Team
+
+25%
+
+Ecosystem & Rewards
+
+20%
+
+Vesting Reserve
+
+10%
+
+See full allocation details in: [docs/ALLOCATION.md](docs/ALLOCATION.md)  
+See vesting schedules in: [docs/VESTING_PLAN.md](docs/VESTING_PLAN.md)
+
+----------
 
 ## 📦 Installation
 
 ```bash
 npm install
+
 ```
 
 To test locally with Hardhat:
 
 ```bash
 npx hardhat test
+
 ```
 
----
+----------
 
-## 🧭 Project Roadmap
+## 🤭 Project Roadmap
 
 We are committed to maintaining CillarCoin as an enterprise-grade, production-ready token infrastructure. Our official roadmap outlines the technical and governance milestones to elevate the platform to full audit certification and DAO-readiness.
 
 📍 [View the Enterprise Development Roadmap](docs/ROADMAP.md)
 
----
+----------
 
 ## 📄 License
 
@@ -214,21 +259,23 @@ copies of the Software, and to permit persons to whom the Software is furnished 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 ```
 
----
+----------
 
 ## 🌐 Links
 
 ### Official Websites:
-- Cillar: [https://cillar.io](https://cillar.io)
-- AFRX: [https://afrx.io](https://afrx.io)
-- Abba App: [https://abbapp.com](https://abbapp.com)  
-- AfrailX: [https://afrailx.com](https://afrailx.com)
-- ArailX: [https://arailx.com](https://arailx.com)
-- Afrail Inc: [https://afrail.xyz](https://afrail.xyz)
 
----
+-   Cillar: [https://cillar.io](https://cillar.io)
+-   AFRX: [https://afrx.io](https://afrx.io)
+-   Abba App: [https://abbapp.com](https://abbapp.com)
+-   AfrailX: [https://afrailx.com](https://afrailx.com)
+-   ArailX: [https://arailx.com](https://arailx.com)
+-   Afrail Inc: [https://afrail.xyz](https://afrail.xyz)
+
+----------
 
 ## 🤝 Contributions
 
