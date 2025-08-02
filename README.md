@@ -4,7 +4,9 @@
 
 ## 🚀 Initial Exchange Offering (IEO) on P2B Exchange
 
-CillarCoin is launching its Initial Exchange Offering (IEO) on **P2B Exchange**, one of the leading global crypto platforms. The IEO will feature an allocation of **1,000,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$150 million USD** to support smart mobility deployments via AfrailX™ and ArailX™.
+CillarCoin is launching its Initial Exchange Offering (IEO) on [P2B Exchange](https://p2pb2b.com), one of the leading global crypto platforms. The IEO will feature an allocation of **2,500,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$375 million USD** to support AfrailX™ and ArailX™ smart mobility deployment, liquidity, staking, and DAO treasury. 
+
+> All IEO participants will be eligible to vote in the [Cillar DAO](https://cillar.org) and access smart mobility platforms (AfrailX & ArailX) via [Abba App](https://abbapp.com).
 
 📖 [View Full IEO Details](./IEO.md)
 
@@ -189,8 +191,8 @@ This repository contains the following contracts:
 -   **Max Supply**: 100,000,000,000 CILLAR
 -   **Total Supply**: 40,000,000,000 CILLAR
 -   **Founder's Allocation**: 25,000,000,000 CILLAR (25%) to be distributed gradually
--   **IEO Allocation**: 1,000,000,000 CILLAR
--   **Initial Mint**: 10,000,000,000 CILLAR (10%) minted and live on-chain
+-   **IEO Allocation**: 2,500,000,000 CILLAR
+-   **Initial Mint**: 15,000,000,000 CILLAR (15%) minted and live on-chain
 
 ### Distribution Plan
 
@@ -268,7 +270,7 @@ THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR I
 ### Official Websites:
 
 -   Cillar: [https://cillar.io](https://cillar.io)
--   AFRX: [https://afrx.io](https://afrx.io)
+-   Cillar DAO: [https://cillar.org](https://cillar.org)
 -   Abba App: [https://abbapp.com](https://abbapp.com)
 -   AfrailX: [https://afrailx.com](https://afrailx.com)
 -   ArailX: [https://arailx.com](https://arailx.com)
