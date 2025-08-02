@@ -8,10 +8,10 @@ This whitepaper outlines the architecture, use cases, technical specifications, 
 
 ## Websites and Developer Info
 
--   Website: [https://cillar.io](https://cillar.io)
--   Website: [https://afrx.io](https://afrx.io)
--   Website: [https://afrail.xyz](https://afrail.xyz)
--   Platform: [https://abbapp.com](https://abbapp.com)
+-   Cillar: [https://cillar.io](https://cillar.io)
+-   Cillar DAO: [https://cillar.org](https://cillar.org)
+-   Afrail Inc.: [https://afrail.xyz](https://afrail.xyz)
+-   Abba App: [https://abbapp.com](https://abbapp.com)
 -   Creator & Developer: Simon Kapenda, Founder & CTO (AFRX, Abba Platforms Inc., & Afrail Inc.)
 
 ## Purpose
@@ -30,7 +30,7 @@ CillarCoin is not an investment or speculative token. It is purely a utility tok
 -   **Total Supply:** 40 billion (40,000,000,000)
 -   **Max Supply Cap:** 100 billion (100,000,000,000)
 -   **Decimals:** 18
--   **Initial Price per Token:** $0.10 (USD)
+-   **Initial Price per Token:** $0.15 (USD)
 -   **Public Treasury Allocation:** 45%
 -   **Founders & Team Allocation:** 25%
 -   **Locked and Vested Supply:** 30% (via CillarVesting contract)
@@ -89,7 +89,7 @@ CillarCoin is maintained and governed by Abba Platforms Inc., with core developm
 
 ## Cillar DAO and Hybrid Governance
 
-CillarCoin will transition into a community-governed protocol under the formation of the **CillarDAO**. Governance will be hybrid:
+CillarCoin will transition into a community-governed protocol under the formation of the **Cillar DAO**. Governance will be hybrid:
 
 -   **Protocol Layer**: Controlled by core developers and platform maintainers for smart contract upgrades and security.
 -   **Community Layer**: $CILLAR holders may vote on proposals affecting treasury allocation, sustainability initiatives, and feature rollouts.
