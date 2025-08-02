@@ -139,11 +139,11 @@ CillarCoin's governance is designed not just for transparency, but for inclusive
 **Standard:** ERC-20 with extended logic for fare payments, refunds, rewards, and compliance mechanisms  
 **Blockchain:** BNB Smart Chain  
 **Decimals:** 18  
-**Initial Price per Token:** $0.10 (USD)
-**Initial Supply:** 10 billion (10,000,000,000) tokens  
+**Initial Price per Token:** $0.15 (USD)
+**Initial Minted:** 15 billion (15,000,000,000) tokens  
 **Max Supply Cap:** 100 billion (100,000,000,000) tokens
 
-This supply design balances current adoption needs with long-term scalability. Only 10% of the total maximum supply is initially minted, allowing controlled inflation and phased adoption across geographies and sectors. Additional tokens will be minted in tranches based on milestone-driven release schedules, public infrastructure needs, and DAO-approved proposals.
+This supply design balances current adoption needs with long-term scalability. Only 15% of the total maximum supply is initially minted, allowing controlled inflation and phased adoption across geographies and sectors. Additional tokens will be minted in tranches based on milestone-driven release schedules, public infrastructure needs, and DAO-approved proposals.
 
 **Allocation Breakdown:**
 
