@@ -14,8 +14,8 @@ CillarCoin ($CILLAR) is a decentralized digital utility token designed to serve 
     -   Urban commuters will naturally onboard into the token ecosystem through transit ticketing and app engagement.
 3.  **Limited IEO Supply & Pricing Strategy:**
     
-    -   Only 1,000,000,000 $CILLAR (2.5% of total supply) will be made available during the IEO at a starting price of $0.15.
-    -   Total supply is capped at 40,000,000,000 tokens (with a 100B max cap), preserving scarcity for institutional and early-stage buyers.
+    -   Only 2,500,000,000 $CILLAR (0.625% of total supply) will be made available during the IEO at a starting price of $0.15.
+    -   Total supply is capped at 40,000,000,000 tokens (with a 100,000,000,000 max cap), preserving scarcity for institutional and early-stage buyers.
 
 4.  **Utility vs Speculation:**
     
