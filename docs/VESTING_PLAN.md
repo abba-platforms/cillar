@@ -3,7 +3,7 @@
 **Effective Date:** July 2025  
 **Max Supply:** 100,000,000,000 $CILLAR  
 **Total Supply:** 40,000,000,000 $CILLAR  
-**Currently Minted:** 10,000,000,000 $CILLAR
+**Currently Minted:** 15,000,000,000 $CILLAR
 
 ----------
 
@@ -70,14 +70,14 @@
 
 ## 5. Liquidity Provision
 
--   **Allocation:** 1,000,000,000 $CILLAR (initial)
+-   **Allocation:** 3,000,000,000 $CILLAR (initial)
 -   **Objective:** Facilitate DEX liquidity pools (e.g., PancakeSwap) and CEX listings (e.g., P2B Exchange)
 
 ----------
 
 ## 6. Public Token Sales (ICO/IEO)
 
--   **Planned Allocation:** Up to 5,000,000,000 $CILLAR (10,000 (10% of the initial minted) is live on-chain)
+-   **Planned Allocation:** Up to 15,000,000,000 $CILLAR (37.5% of the initial minted) is live on-chain)
 -   **Schedule:** Progressive release tied to milestones
 -   **Method:** Smart contract with KYC/AML + vesting logic
 
@@ -92,7 +92,7 @@
 
 ## 8. Unminted Reserve Supply
 
--   **Remaining Supply Not Yet Minted:** 30,000,000,000 $CILLAR
+-   **Remaining Supply Not Yet Minted:** 25,000,000,000 $CILLAR
 -   **Minting Schedule:** Subject to governance and community-approved proposals
 
 ----------
