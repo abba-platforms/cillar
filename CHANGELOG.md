@@ -4,6 +4,43 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.0.14] – 2025-08-02
+
+### Updated
+
+-   `IEO.md` updated with:
+    
+    -   ✅ Increase of IEO token allocation from **1B** to **2.5B $CILLAR**
+    -   ✅ Updated fundraising target from **$150M** to **$375M USD**
+-   `IEO_FAQ.md`:
+    
+    -   ✅ Reflects **2.5B tokens for IEO** and **15B tokens initially minted** (15% of the max supply)
+-   `ALLOCATION.md`:
+    
+    -   ✅ Updated to show **2.5B tokens allocated for IEO** and **15B tokens live on chain**
+-   `docs/CILLARCOIN.md` (Tokenomics):
+    
+    -   ✅ Revised to **15B tokens initially minted** (15% of max cap)
+-   `IEO_Demand_Summary.md`:
+    
+    -   ✅ Updated to reflect new IEO allocation of **2.5B tokens** and IEO market share as **0.625%** of max supply
+-   `VESTING_PLAN.md`:
+    
+    -   ✅ Reflects **2.5B IEO tokens** and confirms that up to **15B $CILLAR (37.5%)** is live on chain
+-   `Whitepaper.md`:
+    
+    -   ✅ Corrected token price from **$0.10** to **$0.15**
+    -   ✅ Added reference link to **Cillar DAO** at [https://cillar.org](https://cillar.org)
+-   `GOVERNANCE.md`:
+    
+    -   ✅ Updated contact email from **[gov@cillar.io](mailto:gov@cillar.io)** to **[dao@cillar.org](mailto:dao@cillar.org)**
+
+### Purpose
+
+Brings all repository files into alignment with the updated IEO structure and Cillar DAO integration before August IEO launch.
+
+----------
+
 ## [1.0.13] – 2025-07-19
 
 ### Updated
@@ -33,11 +70,11 @@ All notable changes to this project will be documented in this file. This projec
 
 ### Updated
 
-- `IEO_FAQ.md` updated to reflect latest Initial Exchange Offering (IEO) details:
-  - Confirmed IEO schedule: August 4 – October 27, 2025
-  - Clarified supply structure: Max Supply vs. Initial Cap vs. Minted Supply
-  - Added PancakeSwap listing note (10,000 $CILLAR in initial liquidity)
-  - Revised team attribution: created by Simon Kapenda, maintained by Abba Platforms Inc.
+-   `IEO_FAQ.md` updated to reflect latest Initial Exchange Offering (IEO) details:
+    -   Confirmed IEO schedule: August 4 – October 27, 2025
+    -   Clarified supply structure: Max Supply vs. Initial Cap vs. Minted Supply
+    -   Added PancakeSwap listing note (10,000 $CILLAR in initial liquidity)
+    -   Revised team attribution: created by Simon Kapenda, maintained by Abba Platforms Inc.
 
 ### Purpose
 
@@ -49,16 +86,16 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ### Updated
 
-- `README.md` updated to reflect:
-  - 10,000,000,000 $CILLAR minted and confirmed on-chain
-  - 10,000 $CILLAR listed and trading on PancakeSwap
-  - Links added to `ALLOCATION.md` and `VESTING_PLAN.md` under Tokenomics and Documentation
-  - Circulating supply clarified separately from max supply
+-   `README.md` updated to reflect:
+    -   10,000,000,000 $CILLAR minted and confirmed on-chain
+    -   10,000 $CILLAR listed and trading on PancakeSwap
+    -   Links added to `ALLOCATION.md` and `VESTING_PLAN.md` under Tokenomics and Documentation
+    -   Circulating supply clarified separately from max supply
 
 ### Added
 
-- Extended commit description and vesting section embedded in canvas for documentation traceability
-- Alignment with real-time contract status and IEO onboarding visibility
+-   Extended commit description and vesting section embedded in canvas for documentation traceability
+-   Alignment with real-time contract status and IEO onboarding visibility
 
 ----------
 
