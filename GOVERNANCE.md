@@ -39,4 +39,4 @@ The long-term roadmap includes gradual decentralization of governance to a Cilla
 
 ---
 
-📩 **Contact:** gov@cillar.io
+📩 **Contact:** dao@cillar.org
