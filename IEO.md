@@ -13,9 +13,9 @@ Website: [https://p2pb2b.com](https://p2pb2b.com)
 
 ## IEO Details
 
--   **IEO Supply**: 1,000,000,000 $CILLAR
+-   **IEO Supply**: 2,500,000,000 $CILLAR
 -   **Price**: $0.15 per $CILLAR
--   **Target Raise**: $150 million USD
+-   **Target Raise**: $375 million USD
 -   **IEO Duration**: Up to 12 weeks
 -   **Start Date**: To be announced
 -   **Agreement Signed**: ✅ July 2025
