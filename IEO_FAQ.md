@@ -32,7 +32,7 @@ The token will be sold at **$0.15 USD per $CILLAR** during the IEO.
 
 ### 📊 How many tokens are being offered?
 
-A total of **1,000,000,000 $CILLAR** tokens are allocated for the IEO.
+A total of **2,500,000,000 $CILLAR** tokens are allocated for the IEO.
 
 ----------
 
@@ -46,7 +46,7 @@ The IEO will run for an initial **12-week period** from **August 4 to October 27
 
 -   **Max Supply:** 100,000,000,000
 -   **Initial Supply Cap:** 40,000,000,000
--   **Minted to Date:** 10,000,000,000 (10% of max supply)
+-   **Minted to Date:** 15,000,000,000 (15% of max supply)
 
 ----------
 
