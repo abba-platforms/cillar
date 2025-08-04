@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [2025-08-04] - Branding Update in README
+
+### Added
+
+-   Introduced official CillarCoin robot mascot image to the Branding section of `README.md`.
+-   Referenced newly uploaded asset in the `branding/` directory.
+
+### Notes
+
+-   No content was removed or truncated. Enhances the visual identity of the project.
+
+----------
+
 ## [1.0.14] – 2025-08-02
 
 ### Updated
