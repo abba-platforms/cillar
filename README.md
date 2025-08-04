@@ -1,10 +1,10 @@
-# CillarCoin (CILLAR)
+# CillarCoin Utility Token (CILLAR)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Built with Solidity](https://img.shields.io/badge/built%20with-Solidity-363636) ![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen) [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
 
 ## 🚀 Initial Exchange Offering (IEO) on P2B Exchange
 
-CillarCoin is launching its Initial Exchange Offering (IEO) on [P2B Exchange](https://p2pb2b.com), one of the leading global crypto platforms. The IEO will feature an allocation of **2,500,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$375 million USD** to support AfrailX™ and ArailX™ smart mobility deployment, liquidity, staking, and DAO treasury. 
+CillarCoin is launching its Initial Exchange Offering (IEO) on [P2B Exchange](https://p2pb2b.com), one of the leading global crypto platforms. The IEO will feature an allocation of **2,500,000,000 $CILLAR tokens** at **$0.15 USD per token**, aiming to raise **$375 million USD** to support AfrailX™ and ArailX™ smart mobility deployment, liquidity, staking, and DAO treasury.
 
 > All IEO participants will be eligible to vote in the [Cillar DAO](https://cillar.org) and access smart mobility platforms (AfrailX & ArailX) via [Abba App](https://abbapp.com).
 
@@ -30,7 +30,7 @@ Swap BNB for $CILLAR via PancakeSwap:
 
 **CillarCoin** ($CILLAR) is a programmable ERC-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It is built to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems exclusively through the **Abba App**.
 
-CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation.
+CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation. See Cillar DAO website at cillar.org.
 
 ----------
 
@@ -83,6 +83,14 @@ Official CillarCoin branding assets including logos and tokens are located in th
 Here is the official CillarCoin Token — available in the [`branding`](branding/) folder:
 
 ![CillarCoin Token – Primary](branding/cillar-token-primary.jpg) ![CillarCoin Token – Angled](branding/cillar-token-left.jpg)
+
+### 🪙 Cillar Mascot (Official Robot Character)
+
+The official CillarCoin futuristic robot mascot is now part of the brand identity. This character represents automation, mobility, and precision within the Cillar ecosystem.
+
+![Cillar Robot](branding/Cillar_Futuristic_Robot_Figure.jpg)
+
+File: `Cillar_Futuristic_Robot_Figure.jpg`
 
 ### 🪙 CillarCoin Logo
 
@@ -223,6 +231,7 @@ Vesting Reserve
 ```bash
 npm install
 
+
 ```
 
 To test locally with Hardhat:
@@ -230,11 +239,12 @@ To test locally with Hardhat:
 ```bash
 npx hardhat test
 
+
 ```
 
 ----------
 
-## 🧭 Project Roadmap
+## 🤭 Project Roadmap
 
 We are committed to maintaining CillarCoin as an enterprise-grade, production-ready token infrastructure. Our official roadmap outlines the technical and governance milestones to elevate the platform to full audit certification and DAO-readiness.
 
@@ -260,6 +270,7 @@ copies of the Software, and to permit persons to whom the Software is furnished 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
 
 ```
 
