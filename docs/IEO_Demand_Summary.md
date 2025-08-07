@@ -1,6 +1,6 @@
 # CillarCoin ($CILLAR) IEO Demand Summary
 
-CillarCoin ($CILLAR) is a decentralized digital utility token designed to serve as the exclusive fare payment method for the upcoming AfrailX™ and ArailX™ smart transit systems via the Abba App. While full deployment and integration are forthcoming, $CILLAR is positioned to become the foundational digital currency for seamless transit payments, ride rewards, and decentralized governance across these systems. Built on the BNB Smart Chain using the ERC-20 standard, CillarCoin combines practical utility with real-world infrastructure and user adoption potential.
+CillarCoin ($CILLAR) is a decentralized digital utility token designed to serve as the exclusive fare payment method for the upcoming AfrailX™ and ArailX™ smart transit systems via the Abba App. While full deployment and integration are forthcoming, $CILLAR is positioned to become the foundational digital currency for seamless transit payments, ride rewards, and decentralized governance across these systems. Built on the BNB Smart Chain and following the BEP-20 token standard (modeled after Ethereum’s ERC-20), CillarCoin combines practical utility with real-world infrastructure and user adoption potential.
 
 ### Key Highlights Driving Demand:
 
