@@ -25,7 +25,7 @@ CillarCoin is not an investment or speculative token. It is purely a utility tok
 -   **Token Name:** CillarCoin
 -   **Ticker Symbol:** CILLAR
 -   **Type:** Utility Token
--   **Standard:** ERC-20 (with extended logic for reward/refund/fare compliance)
+-   **Token Standard:** BEP-20 (with extended logic for reward/refund/fare compliance)
 -   **Blockchain:** BNB Smart Chain
 -   **Total Supply:** 40 billion (40,000,000,000)
 -   **Max Supply Cap:** 100 billion (100,000,000,000)
