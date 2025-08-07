@@ -97,4 +97,4 @@ Email: **[ir@afrail.xyz](mailto:ir@afrail.xyz)**
 
 ### 🛡️ Is $CILLAR safe?
 
-Yes. $CILLAR is deployed as an **ERC-20 token** on the **BNB Smart Chain** with audited smart contract features for compliance, security, and future scalability.
+Yes. $CILLAR is deployed as an **BEP-20 token** on the **BNB Smart Chain** with audited smart contract features for compliance, security, and future scalability.
