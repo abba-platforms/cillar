@@ -4,6 +4,24 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.1.0] – 2025-08-07
+
+### Updated
+
+-   Replaced all references to “ERC-20” with “BEP-20” in the following documentation files:
+    -   `ANALYSIS.md`
+    -   `CILLARCOIN.md`
+    -   `IEO_Demand_Summary.md`
+    -   `WHITEPAPER.md`
+    -   `IEO.md`
+    -   `IEO_FAQ.md`
+
+### Notes
+
+-   These updates align all documentation with CillarCoin’s actual deployment on the **BNB Smart Chain**, ensuring technical accuracy and consistency across investor and community-facing materials.
+
+----------
+
 ## [2025-08-04] - Branding Update in README
 
 ### Added
