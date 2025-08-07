@@ -2,14 +2,14 @@
 
 **Project**: CillarCoin  
 **Network**: BNB Smart Chain  
-**Type**: Utility Token (ERC-20)  
+**Type**: Utility Token (BEP-20)  
 **Repository**: [github.com/abba-platforms/cillar](https://github.com/abba-platforms/cillar)
 
 ----------
 
 ## 🌐 Overview
 
-CillarCoin ($CILLAR) is a programmable digital utility token developed by **Abba Platforms Inc.** to power secure, real-time fare payments across smart mobility platforms — **AfrailX** (Africa) and **ArailX** (U.S.) — through its flagship app, **Abba App**.
+CillarCoin ($CILLAR) is a programmable digital utility token (BEP-20) developed by **Abba Platforms Inc.** to power secure, real-time fare payments across smart mobility platforms — **AfrailX** (Africa) and **ArailX** (U.S.) — through its flagship app, **Abba App**.
 
 CillarCoin is **not specifically a speculative cryptocurrency** but a **purpose-built digital fare medium**, offering transparent, fair, and accessible transit solutions in urban mobility ecosystems.
 
