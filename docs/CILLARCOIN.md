@@ -136,7 +136,7 @@ CillarCoin's governance is designed not just for transparency, but for inclusive
 **Token Name:** CillarCoin  
 **Ticker Symbol:** CILLAR  
 **Type:** Utility Token  
-**Standard:** ERC-20 with extended logic for fare payments, refunds, rewards, and compliance mechanisms  
+**Standard:** BEP-20 with extended logic for fare payments, refunds, rewards, and compliance mechanisms  
 **Blockchain:** BNB Smart Chain  
 **Decimals:** 18  
 **Initial Price per Token:** $0.15 (USD)
