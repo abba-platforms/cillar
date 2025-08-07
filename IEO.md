@@ -7,7 +7,7 @@ Website: [https://p2pb2b.com](https://p2pb2b.com)
 ## IEO Summary
 
 -   **Token Name**: CillarCoin ($CILLAR)
--   **Token Standard**: ERC-20
+-   **Token Standard**: BEP-20
 -   **Chain**: BNB Smart Chain
 -   **Smart Contract**: [0x4364a697bB204C8239b40d038F500971f6fe4D37](https://bscscan.com/token/0x4364a697bB204C8239b40d038F500971f6fe4D37)
 
