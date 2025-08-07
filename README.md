@@ -28,7 +28,7 @@ Swap BNB for $CILLAR via PancakeSwap:
 
 ## What's CillarCoin?
 
-**CillarCoin** ($CILLAR) is a programmable ERC-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It is built to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems exclusively through the **Abba App**.
+**CillarCoin** ($CILLAR) is a programmable BEP-20 utility token created and developed by **Simon Kapenda**, the creator of **Abba App**, and maintained by **Abba Platforms Inc.** It is built to facilitate transit fare payments on **AfrailX** and **ArailX** smart mobility systems exclusively through the **Abba App**.
 
 CillarCoin is designed to enable secure, flexible, and user-centric mobility payments within a decentralized infrastructure ecosystem, with future support for **community governance via DAO mechanisms** over key parameters such as rewards, pricing, and treasury allocation. See Cillar DAO website at cillar.org.
 
@@ -124,7 +124,7 @@ The whitepaper explains the purpose, utility, architecture, smart contract logic
 
 ### 📄 CillarCoin Ecosystem – Infrastructure & Use Case Expansion Plan
 
-A comprehensive, production-grade whitepaper detailing the technical, economic, and governance architecture of **CillarCoin ($CILLAR)** — a non-speculative ERC-20 utility token built on BNB Smart Chain. Designed specifically to power AfrailX and ArailX smart transit systems, CillarCoin extends beyond mobility to support smart city services, education credits, local governance, and decentralized marketplaces across Africa and beyond.
+A comprehensive, production-grade whitepaper detailing the technical, economic, and governance architecture of **CillarCoin ($CILLAR)** — a non-speculative BEP-20 utility token built on BNB Smart Chain. Designed specifically to power AfrailX and ArailX smart transit systems, CillarCoin extends beyond mobility to support smart city services, education credits, local governance, and decentralized marketplaces across Africa and beyond.
 
 **Key Highlights:**
 
