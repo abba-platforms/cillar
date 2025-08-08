@@ -10,6 +10,14 @@ CillarCoin is launching its Initial Exchange Offering (IEO) on [P2B Exchange](ht
 
 📖 [View Full IEO Details](./IEO.md)
 
+----------
+
+## 📄 IEO Allocation Plan
+
+View the full breakdown of the $375 million funding allocation from the upcoming $CILLAR IEO:
+
+➡️ [IEO_ALLOCATION_PLAN.md](./IEO_ALLOCATION_PLAN.md)
+
 ### 📘 CillarCoin IEO FAQ
 
 Get answers to the most common questions about our Initial Exchange Offering (IEO).  
@@ -55,6 +63,8 @@ These smart mobility systems—AfrailX in Africa and the Middle East, and ArailX
 -   [Infrastructure & DAO Plan](docs/CILLARCOIN.md)
 -   [Initial Exchange Offering (IEO)](IEO.md)
 -   [IEO Demand Summary](docs/IEO_Demand_Summary.md)
+-   [IEO Allocation Plan](./IEO_ALLOCATION_PLAN.md)
+-   [IEO FAQ](./IEO_FAQ.md)
 -   [Technical Architecture](docs/ARCHITECTURE.md)
 -   [Token Analysis](docs/ANALYSIS.md)
 -   [Token Allocation](docs/ALLOCATION.md)
