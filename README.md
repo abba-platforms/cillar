@@ -16,7 +16,7 @@ CillarCoin is launching its Initial Exchange Offering (IEO) on [P2B Exchange](ht
 
 View the full breakdown of the $375 million funding allocation from the upcoming $CILLAR IEO:
 
-➡️ [IEO_ALLOCATION_PLAN.md](./IEO_ALLOCATION_PLAN.md)
+➡️ [View IEO Allocation Plan](./IEO_ALLOCATION_PLAN.md)
 
 ### 📘 CillarCoin IEO FAQ
 
