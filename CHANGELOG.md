@@ -4,6 +4,27 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.1.1] – 2025-08-07
+
+### Added
+
+-   `IEO_ALLOCATION_PLAN.md` file committed to project root.
+-   Detailed allocation breakdown of expected $375M IEO raise, including:
+    -   AfrailX rollout and development
+    -   ArailX technical planning (Namibia + South Florida)
+    -   Abba App completion and licensing efforts
+    -   Environmental Impact Assessments in Northern Namibia corridor towns
+
+### Updated
+
+-   `README.md`: Link to IEO allocation renamed from `IEO_ALLOCATION_PLAN.md` to **"View IEO Allocation Plan"**
+
+### Purpose
+
+Documents funding priorities tied to the IEO, ensuring transparency and strategic communication with stakeholders, investors, and contributors.
+
+----------
+
 ## [1.1.0] – 2025-08-07
 
 ### Updated
