@@ -4,6 +4,21 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.1.1] – 2025-08-09
+
+### Updated
+
+- README.md:
+- Added direct link to root-level ROADMAP.md under the Documentation section.
+- Updated roadmap link text for clearer distinction: changed from "CillarCoin Project Roadmap" to "CillarCoin Development Roadmap".
+- Clarified differentiation between the root ROADMAP.md and the /docs/ROADMAP.md to reduce user confusion.
+
+### Purpose
+
+Improves navigation and clarity in project documentation by ensuring users and contributors can easily locate and distinguish the comprehensive CillarCoin Development Roadmap from implementation details.
+
+----------
+
 ## [1.1.1] – 2025-08-07
 
 ### Added
