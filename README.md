@@ -75,7 +75,7 @@ For the detailed CillarCoin implementation roadmap, see the [ROADMAP](./ROADMAP.
 -   [Token Analysis](docs/ANALYSIS.md)
 -   [Token Allocation](docs/ALLOCATION.md)
 -   [Vesting Plan](docs/VESTING_PLAN.md)
--   [CillarCoin Project Roadmap](docs/ROADMAP.md)
+-   [CillarCoin Development Roadmap](docs/ROADMAP.md)
 -   [CillarCoin Implementation Roadmap](ROADMAP.md)
 -   [Audit Log & Status](AUDIT.md)
 -   [Release Notes](RELEASE_NOTES.md)
