@@ -63,6 +63,20 @@ For the detailed CillarCoin implementation roadmap, see the [ROADMAP](./ROADMAP.
 
 ----------
 
+## 📄 Smart Contracts – LP Staking & Utility
+
+This repository now includes the upgraded LP staking contract for $CILLAR:
+
+### CillarLPStakingV2.sol
+
+-   Upgraded LP staking contract with multisig governance, reward pool safety, timestamp-based staking, and early-bird bonus rewards.
+-   Fully audit-ready, mainnet-safe, and designed to encourage LP participation while maintaining transparency and investor confidence.
+-   Preserves original deposit, withdraw, pending reward calculation, and emergency withdrawal functionality.
+
+For deployment instructions, see [`CillarLPStakingV2.sol`](docs/CillarLPStakingV2.sol) and usage details in the README.
+
+----------
+
 ## Documentation
 
 -   [Whitepaper](docs/WHITEPAPER.md)
