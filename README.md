@@ -73,7 +73,7 @@ This repository now includes the upgraded LP staking contract for $CILLAR:
 -   Fully audit-ready, mainnet-safe, and designed to encourage LP participation while maintaining transparency and investor confidence.
 -   Preserves original deposit, withdraw, pending reward calculation, and emergency withdrawal functionality.
 
-For deployment instructions, see [`CillarLPStakingV2.sol`](docs/CillarLPStakingV2.sol) and usage details in the README.
+For deployment instructions, see [`CillarLPStakingV2.sol`](contracts/CillarLPStakingV2.sol) and usage details in the README.
 
 ----------
 
