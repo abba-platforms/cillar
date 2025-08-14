@@ -4,6 +4,19 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.1.1] – 2025-08-14
+
+### Added
+
+-   LP staking section for CillarCoin in README, including instructions for adding liquidity on PancakeSwap, staking LP tokens, and reward mechanisms.
+-   Direct PancakeSwap link added for LP staking participation.
+
+### Fixed
+
+-   Corrected all smart contract links in README from `./docs` to `./contracts` to accurately reflect deployed contract references.
+
+----------
+
 ## [1.1.1] – 2025-08-09
 
 ### Updated
