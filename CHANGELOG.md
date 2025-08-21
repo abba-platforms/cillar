@@ -4,6 +4,25 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.1.2] – 2025-08-21
+
+### Updated
+-   Revised **Token Distribution Plan** in:
+    -   `README.md`
+    -   `CILLARCOIN.md`
+    -   `WHITEPAPER.md`
+-   Updated allocations to:
+    -   Public Treasury: **45%**
+    -   Founders & Team: **30%**
+    -   Ecosystem & Rewards: **15%**
+    -   Vesting Rewards: **10%**
+-   Standardized formatting with **bold labels** for clarity and improved readability.
+
+### Purpose
+Ensures tokenomics documentation is aligned across all project files and clearly communicates the updated allocation model to investors, contributors, and community members.
+
+----------
+
 ## [1.1.1] – 2025-08-14
 
 ### Added
@@ -17,14 +36,14 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
-## [1.1.1] – 2025-08-09
+## [1.1.0] – 2025-08-09
 
 ### Updated
 
 - README.md:
-- Added direct link to root-level ROADMAP.md under the Documentation section.
-- Updated roadmap link text for clearer distinction: changed from "CillarCoin Project Roadmap" to "CillarCoin Development Roadmap".
-- Clarified differentiation between the root ROADMAP.md and the /docs/ROADMAP.md to reduce user confusion.
+  - Added direct link to root-level ROADMAP.md under the Documentation section.
+  - Updated roadmap link text for clearer distinction: changed from "CillarCoin Project Roadmap" to "CillarCoin Development Roadmap".
+  - Clarified differentiation between the root ROADMAP.md and the /docs/ROADMAP.md to reduce user confusion.
 
 ### Purpose
 
@@ -32,7 +51,7 @@ Improves navigation and clarity in project documentation by ensuring users and c
 
 ----------
 
-## [1.1.1] – 2025-08-07
+## [1.0.14] – 2025-08-07
 
 ### Added
 
@@ -53,7 +72,7 @@ Documents funding priorities tied to the IEO, ensuring transparency and strategi
 
 ----------
 
-## [1.1.0] – 2025-08-07
+## [1.0.13] – 2025-08-07
 
 ### Updated
 
@@ -71,7 +90,7 @@ Documents funding priorities tied to the IEO, ensuring transparency and strategi
 
 ----------
 
-## [2025-08-04] - Branding Update in README
+## [1.0.12] – 2025-08-04
 
 ### Added
 
@@ -84,35 +103,27 @@ Documents funding priorities tied to the IEO, ensuring transparency and strategi
 
 ----------
 
-## [1.0.14] – 2025-08-02
+## [1.0.11] – 2025-08-02
 
 ### Updated
 
 -   `IEO.md` updated with:
-    
     -   ✅ Increase of IEO token allocation from **1B** to **2.5B $CILLAR**
     -   ✅ Updated fundraising target from **$150M** to **$375M USD**
 -   `IEO_FAQ.md`:
-    
     -   ✅ Reflects **2.5B tokens for IEO** and **15B tokens initially minted** (15% of the max supply)
 -   `ALLOCATION.md`:
-    
     -   ✅ Updated to show **2.5B tokens allocated for IEO** and **15B tokens live on chain**
 -   `docs/CILLARCOIN.md` (Tokenomics):
-    
     -   ✅ Revised to **15B tokens initially minted** (15% of max cap)
 -   `IEO_Demand_Summary.md`:
-    
     -   ✅ Updated to reflect new IEO allocation of **2.5B tokens** and IEO market share as **0.625%** of max supply
 -   `VESTING_PLAN.md`:
-    
     -   ✅ Reflects **2.5B IEO tokens** and confirms that up to **15B $CILLAR (37.5%)** is live on chain
 -   `Whitepaper.md`:
-    
     -   ✅ Corrected token price from **$0.10** to **$0.15**
     -   ✅ Added reference link to **Cillar DAO** at [https://cillar.org](https://cillar.org)
 -   `GOVERNANCE.md`:
-    
     -   ✅ Updated contact email from **[gov@cillar.io](mailto:gov@cillar.io)** to **[dao@cillar.org](mailto:dao@cillar.org)**
 
 ### Purpose
@@ -121,7 +132,7 @@ Brings all repository files into alignment with the updated IEO structure and Ci
 
 ----------
 
-## [1.0.13] – 2025-07-19
+## [1.0.10] – 2025-07-19
 
 ### Updated
 
@@ -133,7 +144,7 @@ Brings all repository files into alignment with the updated IEO structure and Ci
 
 ----------
 
-## [1.0.12] – 2025-07-19
+## [1.0.9] – 2025-07-19
 
 ### Added
 
@@ -146,7 +157,7 @@ Brings all repository files into alignment with the updated IEO structure and Ci
 
 ----------
 
-## [1.0.12] – 2025-07-19
+## [1.0.8] – 2025-07-18
 
 ### Updated
 
@@ -162,7 +173,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.11] – 2025-07-19
+## [1.0.7] – 2025-07-18
 
 ### Updated
 
@@ -179,7 +190,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.10] – 2025-07-18
+## [1.0.6] – 2025-07-16
 
 ### Added
 
@@ -188,7 +199,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.9] – 2025-07-16
+## [1.0.5] – 2025-07-12
 
 ### Added
 
@@ -198,7 +209,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.9] – 2025-07-12
+## [1.0.4] – 2025-07-12
 
 ### Updated
 
@@ -209,7 +220,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.8] – 2025-07-09
+## [1.0.3] – 2025-07-09
 
 ### Added
 
@@ -218,7 +229,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.7] – 2025-07-01
+## [1.0.2] – 2025-07-01
 
 ### Added
 
@@ -235,7 +246,7 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.6] – 2025-07-01
+## [1.0.1] – 2025-06-30
 
 ### Fixed
 
@@ -244,96 +255,11 @@ This change ensures the IEO FAQ is fully aligned with `README.md`, `ALLOCATION.m
 
 ----------
 
-## [1.0.5] – 2025-06-30
+## [1.0.0] – 2025-06-30
 
 ### Updated
 
 -   `WHITEPAPER.md` enhanced to include detailed sections on CillarDAO, benefits to holders, token lifecycle, and sustainability integration without altering original structure.
 -   Improved formatting and clarity across new sections added.
-
-----------
-
-## [1.0.4] – 2025-06-30
-
-### Added
-
--   `CILLARCOIN.md` — _Infrastructure & Use Case Expansion Plan_, detailing the full utility scope, technical architecture, DAO governance, and roadmap for CillarCoin.
--   Analysis summary and reference to `CILLARCOIN.md` inserted into `README.md`.
-
-### Fixed
-
--   Broken/dead link to `CILLARCOIN.md` in `README.md` corrected for direct accessibility.
-
-----------
-
-## [1.0.3] – 2025-06-29
-
-### Added
-
--   `ANALYSIS.md` document covering technical insights, benefits to holders, and project positioning.
--   Reference to `ANALYSIS.md` added to `README.md`.
-
-----------
-
-## [1.0.2] – 2025‑06‑29
-
-### Added
-
--   Uploaded official CillarCoin logo assets to `branding/` folder:
-    -   `cillar-logo-white-on-blue.jpg`
-    -   `cillar-logo-black-on-white.jpg`
-    -   `cillar-logo-with-text.jpg`
-
-### Updated
-
--   `README.md` updated to include a new "Branding" section with previews and references to the official CillarCoin logos
-
-----------
-
-## [1.0.2] – 2025-06-28
-
-### Added
-
--   `ROADMAP.md` and `GOVERNANCE.md` to define long-term project direction and hybrid governance.
--   `ARCHITECTURE.md` with visual diagram and technical explanation.
--   Token images in `branding/` folder for consistent identity.
-
-### Changed
-
--   Updated `README.md` to reference whitepaper and architecture documents.
--   Corrected broken links in `index.md` on GitHub Pages site.
-
-### Removed
-
--   Obsolete `index.md` from GitHub Pages.
-
-----------
-
-## [1.0.1] – 2025-06-27
-
-### Added
-
--   `WHITEPAPER.md` uploaded to `docs/`.
--   Added `CONTRIBUTING.md`, `SECURITY.md`, and `CODE_OF_CONDUCT.md` to project root.
-
-### Changed
-
--   README clarity edits.
--   Updated GitHub Pages with a landing page at `docs/index.md`.
-
-### Removed
-
--   Dead placeholder sections from README.
-
-----------
-
-## [1.0.0] – 2025-06-26
-
-### Added
-
--   Initial smart contracts: `CillarCoin.sol`, `FareRegistry.sol`, and `CillarVesting.sol`.
--   Supporting files: `README.md`, `LICENSE`, and full folder structure.
--   Utility files in `utils/`: `web3.js`, `contracts.js`, `validators.js`, `constants.js`
--   ABI files in `abis/`: `CillarCoin.json`, `FareRegistry.json`, `CillarVesting.json`
 
 ----------
