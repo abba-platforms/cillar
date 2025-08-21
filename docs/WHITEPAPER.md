@@ -32,8 +32,8 @@ CillarCoin is not an investment or speculative token. It is purely a utility tok
 -   **Decimals:** 18
 -   **Initial Price per Token:** $0.15 (USD)
 -   **Public Treasury Allocation:** 45%
--   **Founders & Team Allocation:** 25%
--   **Locked and Vested Supply:** 30% (via CillarVesting contract)
+-   **Founders & Team Allocation:** 30%
+-   **Ecosystem and Rewards; Locked and Vested Supply:** 25% (via CillarVesting contract)
 
 ## Key Smart Contract Features
 
