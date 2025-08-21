@@ -245,11 +245,11 @@ Public Treasury
 
 Founders & Team
 
-25%
+30%
 
 Ecosystem & Rewards
 
-20%
+15%
 
 Vesting Reserve
 
