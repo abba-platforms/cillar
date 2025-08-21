@@ -161,13 +161,13 @@ Rewards for ridership, eco-behavior, participation, and community engagement. Al
 
 Founders & Team
 
-25%
+30%
 
 Incentivizes sustained development, with long-term vesting to align team interests with ecosystem success.
 
-Locked & Vested Supply
+Ecosystem and Rewards; Locked & Vested Supply
 
-30%
+25%
 
 Managed under smart contracts like `CillarVesting.sol` to ensure secure, predictable, and auditable release schedules tied to specific KPIs and ecosystem maturity milestones.
 
