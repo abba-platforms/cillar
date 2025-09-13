@@ -88,6 +88,7 @@ For deployment instructions, see [`CillarLPStakingV2.sol`](contracts/CillarLPSta
 -   [Technical Architecture](docs/ARCHITECTURE.md)
 -   [Token Analysis](docs/ANALYSIS.md)
 -   [Token Allocation](docs/ALLOCATION.md)
+-   [CILLAR–NADD Synergy Framework](docs/CILLAR_NADD_SYNERGY_FRAMEWORK.md)
 -   [Vesting Plan](docs/VESTING_PLAN.md)
 -   [CillarCoin Development Roadmap](docs/ROADMAP.md)
 -   [CillarCoin Implementation Roadmap](ROADMAP.md)
