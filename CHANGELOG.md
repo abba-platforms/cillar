@@ -4,6 +4,22 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [1.1.3] – 2025-09-13
+
+### Added
+
+- Added **CILLAR–NADD Synergy Framework** documentation in `docs/CILLAR_NADD_SYNERGY_FRAMEWORK.md`.
+- Uploaded **framework diagram** to `assets/cillar_nadd_diagram.jpg` and embedded in the documentation.
+- Updated `README.md` to include:
+  - Section linking to the framework documentation.
+  - Embedded diagram for a visual overview of token flow and integration.
+
+### Purpose
+
+Provides developers, stakeholders, and ecosystem partners with both textual and visual references for understanding the operational and technical synergy between **CillarCoin ($CILLAR)** and **NADD (Namibia Digital Dollar)**. Enhances clarity, usability, and accessibility of the project documentation.
+
+----------
+
 ## [1.1.2] – 2025-08-21
 
 ### Updated
