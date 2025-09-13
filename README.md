@@ -177,6 +177,17 @@ The analysis covers architecture, token security, contract logic, vesting struct
 
 ----------
 
+## CILLAR–NADD Synergy Framework
+
+We’ve documented the integration between **CillarCoin ($CILLAR)** and **NADD (Namibia Digital Dollar)** in detail. The framework explains token flow, operational synergy, and real-world use cases.
+
+- **Framework Documentation:** [CILLAR_NADD_SYNERGY_FRAMEWORK.md](docs/CILLAR_NADD_SYNERGY_FRAMEWORK.md)
+- **Diagram:** ![CILLAR–NADD Framework Diagram](assets/cillar_nadd_diagram.jpg)
+
+This section provides developers, stakeholders, and ecosystem partners with a visual and textual reference for understanding the CILLAR–NADD system.
+
+----------
+
 ## 🔗 Ecosystem Integration
 
 Component
