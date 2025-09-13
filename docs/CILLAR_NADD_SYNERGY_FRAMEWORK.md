@@ -12,7 +12,7 @@ This framework explains how **CILLAR and NADD complement each other** within Afr
 
 The **CILLAR–NADD Synergy Settlement Flow diagram** depicting  the Cillar-NADD ecosystem.
 
-![CILLAR-NADD](assets/cillar_nadd_diagram.jpg)
+![CILLAR-NADD](../assets/cillar_nadd_diagram.jpg)
 
 File: `cillar_nadd_diagram.jpg`
 
