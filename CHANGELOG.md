@@ -4,6 +4,17 @@ All notable changes to this project will be documented in this file. This projec
 
 ----------
 
+## [v1.1.4] - 2025-09-15
+
+### Added
+- `docs/CILLAR_WBNB_LP_LOCK.md` — detailed documentation of CILLAR/WBNB PancakeSwap V2 LP lock, including lock duration, Unicrypt verification links, and team commitment statement.
+- README badge and section highlighting the **CILLAR/WBNB LP lock** for 60 months via Unicrypt, with link to detailed docs.
+
+### Purpose
+- To enhance transparency and investor confidence by publicly documenting the long-term lock of CILLAR liquidity and the team’s commitment to the ecosystem.
+
+----------
+
 ## [1.1.3] – 2025-09-13
 
 ### Added
