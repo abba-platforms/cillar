@@ -1,6 +1,16 @@
 # CillarCoin Utility Token (CILLAR)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) ![Built with Solidity](https://img.shields.io/badge/built%20with-Solidity-363636) ![ERC-20 Compliant](https://img.shields.io/badge/ERC--20-Compliant-brightgreen) [![Security Policy](https://img.shields.io/badge/Security-Policy-blue.svg)](SECURITY.md)
+![LP Locked ✅](https://img.shields.io/badge/LP-Locked%20for%2060%20Months-brightgreen)
+
+## Liquidity Pool (LP) Lock
+
+The CILLAR team has locked all PancakeSwap V2 LP tokens for the **CILLAR/WBNB** pair for **60 months (5 years)** using [Unicrypt](https://app.unicrypt.network/), a trusted decentralized liquidity locking platform. This ensures long-term market stability and guarantees that liquidity cannot be withdrawn prematurely, while allowing investors to continue trading normally.  
+
+For full details, verification links, and a statement of our team’s commitment to the CILLAR ecosystem, see the dedicated documentation:  
+📄 [CILLAR/WBNB LP Lock Documentation](docs/CILLAR_WBNB_LP_LOCK.md)
+
+----------
 
 ## 🚀 Initial Exchange Offering (IEO) on P2B Exchange
 
